@@ -89,6 +89,14 @@ natureai-next/
 
 Package boundaries are enforced by import-lint rules and tests.
 
+## 3.1 Modular persistence and optional capabilities
+
+Aperture does not treat one SQLite file as the permanent home of every future feature. The core library database remains small enough to preserve and interpret assets and observations independently. Optional capabilities register lazily activated subsystem databases with the composition root.
+
+Subsystems communicate through typed application ports and stable public IDs. They do not query one another's tables directly and do not rely on cross-file foreign keys. Each subsystem has independent migrations, integrity state, failure isolation, and backup or rebuild policy. A missing optional subsystem must not prevent the core library from opening.
+
+The architecture decision and mandatory implementation rules are defined in `ARCHITECTURE_DECISIONS.md` ADR-004 and `CODING_STANDARD.md` section 10.1.
+
 ## 4. Major modules
 
 ### 4.1 `bootstrap`
@@ -450,3 +458,7 @@ Events are persisted atomically with state changes to prevent missed cache/index
 ### AD-006: Application-layer transaction ownership
 
 Use cases own transaction boundaries. Repositories do not commit independently.
+
+### Lightweight offline map presentation
+
+The Qt map workspace depends on an application-level map-workspace service rather than opening MBTiles or library databases directly. The service combines local tile retrieval from the lazily activated `maps.offline` subsystem with bounding-box projections from the core library. The renderer is intentionally replaceable: map math, package resolution, attribution, and spatial retrieval remain outside Qt painting code.

@@ -1,3 +1,20 @@
+# Aperture Backlog
+
+## Approved for Release 3 planning
+
+- Species Dashboard search and matching-photo overview.
+- True higher-detail offline map tile generation beyond the Release 2 maximum zoom.
+- Map rendering performance and system-resource utilization.
+- Map maturity: globe-style navigation, rotation, coverage visualization, and richer interaction.
+- Startup speed improvements based on measured startup phases.
+- Platform progress standard: unrestricted internal updates, normally one UI presentation per second, independently throttled durable persistence.
+
+## Explicitly not part of Aperture 2.0 RC1
+
+The items above are approved future work and are not release blockers for RC1.
+
+---
+
 # Aperture and NatureAI_Next Backlog
 
 ## Purpose
@@ -56,3 +73,17 @@ Semantic and natural-language search, including visual/behavior queries such as 
 - additional metadata templates;
 - expanded thumbnail failure diagnostics and decoder reporting;
 - regional scientific data-exchange integrations.
+
+
+## Map maturity (future release)
+
+- Globe-style map navigation with rotation and graphical coverage selection.
+- Visible installed-package boundaries and richer map styles.
+- Multi-core tile preparation and adaptive rendering performance.
+
+
+## Approved map-engine backlog (post-2.0)
+
+- Seamless **Show all enabled offline maps** rendering across every installed MBTiles package.
+- Calculate combined coverage bounds, support connected navigation and whole-world display when downloaded.
+- Define deterministic overlap resolution, cache lookup order, world wrapping, and coverage indexing.

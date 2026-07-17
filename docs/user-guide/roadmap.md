@@ -1,18 +1,3 @@
-# Aperture Release Roadmap
-
-**Current release:** Aperture 2.0.0 RC1  
-**Release 2 status:** Feature complete; documentation synchronized; final field validation and handover remain.
-
-## Release 3 confirmed starting backlog
-
-- Species Dashboard search by common/scientific name and matching-photo overview.
-- Higher-detail offline map generation beyond zoom 10.
-- Map maturity improvements, including richer area navigation.
-- Startup-speed analysis and incremental performance improvements.
-- Background progress presentation standard: workers may report continuously; UI normally presents latest state once per second.
-
----
-
 # Aperture Product Roadmap
 
 **Status:** Directional roadmap for post-Version 1 development  
@@ -163,10 +148,3 @@ Not every accepted idea is assigned immediately. Items remain in the backlog unt
 ## Library compatibility commitment
 
 Aperture treats the user’s library as the most valuable part of the system. Future releases will provide documented migrations, validation, backups, and rollback paths for schema or metadata changes whenever practical.
-
-
-## RC2.2
-- Parallel render pipeline
-- Adaptive workspace
-- Durable checkpoints
-- Open Tasks manager

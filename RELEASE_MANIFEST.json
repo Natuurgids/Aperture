@@ -1,2034 +1,1880 @@
 {
+  "version": "2.0.0rc2.post2",
   "files": [
     {
       "path": "AI.md",
-      "sha256": "4d3cc7ae015a7052ec5bf49e866313988afdf1b40c1e70e18fec9aeb732c9bc8",
-      "size": 14784
+      "size": 16084,
+      "sha256": "0cbcff7d1a1ec6f1a4c8c8c811eaace922a2f7751a273552f37160bcd7325f59"
     },
     {
       "path": "ARCHITECTURE.md",
-      "sha256": "742dc703471a927ef8ac82eb8791a5c605a7ab020acc5f32b54534284a136e9d",
-      "size": 13464
+      "size": 14786,
+      "sha256": "18d832d67679fce15b680fe94b74ab609974e814790f6399e795ca69089317ae"
     },
     {
       "path": "ARCHITECTURE_DECISIONS.md",
-      "sha256": "13ae30393e5fe8e3764177f52aaa0405549dd9873f4a66a9f65973fba8917b48",
-      "size": 1844
+      "size": 24771,
+      "sha256": "469be58cf6186531228600871a43f1eb916a8b30607f27872e648e8ae8729009"
     },
     {
       "path": "BACKLOG.md",
-      "sha256": "0ae20e6e2ce1f08a3133e00d3fdd61f8ab53feac382b6460a73a742d696ffe04",
-      "size": 3121
+      "size": 4407,
+      "sha256": "56a4faee1abf1e9eb439efb405f630c58ecb70c4c5f33a1c0f66263ff6c81a50"
     },
     {
       "path": "BUILD_WINDOWS_INSTALLER_README.md",
-      "sha256": "e592bfcf8ca51dddc3b860b1710375624dae37c08602ed4e27e69888c593941c",
-      "size": 1702
+      "size": 1702,
+      "sha256": "e592bfcf8ca51dddc3b860b1710375624dae37c08602ed4e27e69888c593941c"
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "359691c6886fadbe37131cf77c30e7578b9ad956c9af8eea91ac99c805c1ad86",
-      "size": 27704
+      "size": 47478,
+      "sha256": "2ac1fc7097ce5278770a1f1dfa0378663152e1e23ff99f77b1b162f0a754d40a"
     },
     {
       "path": "CLEANUP_AND_UPGRADE.md",
-      "sha256": "562dba3aa80b9083740a3ed6a327126cd9b8ed3383ba7ad36d0641e57cbdb119",
-      "size": 1911
+      "size": 1911,
+      "sha256": "562dba3aa80b9083740a3ed6a327126cd9b8ed3383ba7ad36d0641e57cbdb119"
     },
     {
       "path": "CODING_STANDARD.md",
-      "sha256": "22d63d9bd64465b2d4b119e30fb86da80eb421f9bf80cdea55b13375c944ab1c",
-      "size": 11721
+      "size": 25266,
+      "sha256": "53162de3811e17a4bef568f3d2dede9d4f75b5cf6a5dc54e97912bd4d51da560"
     },
     {
       "path": "CONFIGURATION.md",
-      "sha256": "21593d85547e0b086abb07d69fefa3f13b4dabf51b0f5422ba427922eadf749e",
-      "size": 7902
+      "size": 9209,
+      "sha256": "f5aa711d38008a7663d71a3c6adb69f7ebaac0e29ae73af674d396ffc2f3f321"
     },
     {
       "path": "DATABASE.md",
-      "sha256": "6380722bc641bc67fa9864bc84c4b25a6ae2dd28084c4d5139ad02a0df8ab551",
-      "size": 16632
+      "size": 24995,
+      "sha256": "75fb31c9d9d32a4c29877bd27580f7272cf587b84d1a52123bc89a76fd41a81e"
     },
     {
       "path": "GUI.md",
-      "sha256": "5bb4ff03ebc56f583cf9401071205997567004d76f82d8f94abe7f874a7b9172",
-      "size": 16054
+      "size": 21167,
+      "sha256": "14014c98f77d2662892cf6cc186abcca198d1ecb7df141e6a6f5f176aed2b1c2"
     },
     {
       "path": "INSTALLATION.md",
-      "sha256": "bb3b1aa1b18671b71fb7002bfba5b7e63907ee9adae6f18f9dbfde24af6fa79e",
-      "size": 15738
+      "size": 16548,
+      "sha256": "19152f92e004a1918beec1cb57df028b4fea41aaf284ee5671a9b97a5cbb8fbc"
     },
     {
       "path": "Install Aperture.cmd",
-      "sha256": "52990f7336041adbaae19809035437bc5562916d3999d8bdd5cffbc738eccd27",
-      "size": 804
+      "size": 804,
+      "sha256": "52990f7336041adbaae19809035437bc5562916d3999d8bdd5cffbc738eccd27"
+    },
+    {
+      "path": "PHILOSOPHY.md",
+      "size": 1810,
+      "sha256": "1311de59387f8324f6fa42bfda818458a78ac3497700f4219d6a61bb7f71471a"
     },
     {
       "path": "PLUGIN_API.md",
-      "sha256": "7dbf274e93b2023f4fc9188b16ab1d0e73165a71bd24dcd60ab4f5dac97e7f1c",
-      "size": 9376
+      "size": 9376,
+      "sha256": "7dbf274e93b2023f4fc9188b16ab1d0e73165a71bd24dcd60ab4f5dac97e7f1c"
     },
     {
       "path": "PROJECT_SPEC.md",
-      "sha256": "c4c09ef9b2b40112b9e1a4cde800ff3c0a9b16d6526ff99c9bfd941df5f69522",
-      "size": 34919
+      "size": 34919,
+      "sha256": "c4c09ef9b2b40112b9e1a4cde800ff3c0a9b16d6526ff99c9bfd941df5f69522"
     },
     {
       "path": "QUICKSTART_WINDOWS.md",
-      "sha256": "e364763c718cd69537d5a89bd8a4675c8288d9b313bdf24a19e265b45e78cdd7",
-      "size": 3723
+      "size": 3723,
+      "sha256": "e364763c718cd69537d5a89bd8a4675c8288d9b313bdf24a19e265b45e78cdd7"
     },
     {
       "path": "README FIRST.txt",
-      "sha256": "9d8a5126b7f33b5c356d82152895a08ea3debb74d8f9d5acddf6c8f264399b49",
-      "size": 1934
+      "size": 441,
+      "sha256": "dc78b2508d1c8a61474eb94533f07624a53f7be4e2f8c0605a9b9e09e32c7db7"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "sha256": "e877e5955948345d777136141f3e2b61a1f9cecccb448ac92070d62b2b5d5586",
-      "size": 8919
+      "size": 1461,
+      "sha256": "8d10d9248701faf6609a0647c6706409f12deed1ab4814b55914275da9765e08"
     },
     {
       "path": "ROADMAP.md",
-      "sha256": "eb1ab4f009098ad6d5a4121265efc3a28dca1034efdc9814f734bf2aaa89c693",
-      "size": 7274
+      "size": 8002,
+      "sha256": "0d37f3fbe2be8bb387ba24dcd84d5b9bd3a87d84d37f814ed8749af7b99f0669"
     },
     {
       "path": "Repair Aperture.cmd",
-      "sha256": "1f064912128fff9736f23edbd0b7d22b0fe9169b00c921f1c7b1f1e50e64c15a",
-      "size": 1063
+      "size": 1063,
+      "sha256": "1f064912128fff9736f23edbd0b7d22b0fe9169b00c921f1c7b1f1e50e64c15a"
     },
     {
       "path": "Uninstall Aperture.cmd",
-      "sha256": "1cfce12b94464d98b923ed38f03dc32caabea02e1fe3e9ae8ed271d391e29639",
-      "size": 1773
+      "size": 1773,
+      "sha256": "1cfce12b94464d98b923ed38f03dc32caabea02e1fe3e9ae8ed271d391e29639"
     },
     {
       "path": "VALIDATION.md",
-      "sha256": "308c1864fa0b04492130c7536af198ae462e90e9b1eb6e635343615176cf1dd4",
-      "size": 1173
+      "size": 1169,
+      "sha256": "d819d9ef596bbaf1a643b504e47776073d879d6f890f944231fc1d454e673546"
+    },
+    {
+      "path": "VERSION",
+      "size": 15,
+      "sha256": "d846b7bd08b88c5d69f5ead351992101f6da27246dd34a7a3643f22e7d3fb36d"
+    },
+    {
+      "path": "VERSION2_DEVELOPMENT_CHARTER.md",
+      "size": 5886,
+      "sha256": "e5b7c80211b04934540073fe21a2a9ee408c935b55492f083012e3a1a049d698"
+    },
+    {
+      "path": "VISION.md",
+      "size": 5212,
+      "sha256": "e2808a456dbb8ff5b8446cf77cdbf5f24b930f154e8788494695de2e6eada70f"
+    },
+    {
+      "path": "docs/PHILOSOPHY.md",
+      "size": 1694,
+      "sha256": "ce625fd23ecdd8550a400611e6ff61782d457637588747bf858efb02b988ad41"
     },
     {
       "path": "docs/PROJECT_HANDOVER.md",
-      "sha256": "e1a2c5f9c350514c0fad027890613602b181f58c096958543f2e1197012eb539",
-      "size": 2845
+      "size": 2860,
+      "sha256": "be0431036faeadb02e247e99aa999b213b4617f33690f53f5b00111d037521f0"
     },
     {
       "path": "docs/README.md",
-      "sha256": "42b925a5a78a5378c593d5e5fa25c0fcf210018a467b64f4ff85b293127aaa44",
-      "size": 1632
+      "size": 1779,
+      "sha256": "22e3318974ccbec2c4799bd105307a09514e6377ed0128663c41a3f047237d26"
+    },
+    {
+      "path": "docs/VERSION2_DEVELOPMENT_CHARTER.md",
+      "size": 5886,
+      "sha256": "e5b7c80211b04934540073fe21a2a9ee408c935b55492f083012e3a1a049d698"
+    },
+    {
+      "path": "docs/VISION.md",
+      "size": 5212,
+      "sha256": "e2808a456dbb8ff5b8446cf77cdbf5f24b930f154e8788494695de2e6eada70f"
     },
     {
       "path": "docs/accessibility/ACCESSIBILITY_AND_KEYBOARD.md",
-      "sha256": "7fc50d9b20686ea36076331ed93a64c6a59aab400741ce6b03c977cdf6b37d0e",
-      "size": 2014
+      "size": 2014,
+      "sha256": "7fc50d9b20686ea36076331ed93a64c6a59aab400741ce6b03c977cdf6b37d0e"
+    },
+    {
+      "path": "docs/developer/PLATFORM_CERTIFICATION.md",
+      "size": 802,
+      "sha256": "9257dfa85492b7c6e78a0479ad3a6b600230d3738ddcef1a1f119fcee3fa11da"
     },
     {
       "path": "docs/developer/README.md",
-      "sha256": "ae54f81d18621c806384987e7ff7209e6dfcfed7e104dd1b6806bd78dd3d3d27",
-      "size": 1134
+      "size": 1309,
+      "sha256": "8b445faa2e11c836becc054c3b64a8834b23ae8bb3284a4f6cccff46dbd31257"
     },
     {
       "path": "docs/developer/build-windows-installer.md",
-      "sha256": "e592bfcf8ca51dddc3b860b1710375624dae37c08602ed4e27e69888c593941c",
-      "size": 1702
+      "size": 1702,
+      "sha256": "e592bfcf8ca51dddc3b860b1710375624dae37c08602ed4e27e69888c593941c"
+    },
+    {
+      "path": "docs/developer/offline-map-packages.md",
+      "size": 2328,
+      "sha256": "d674bc3dd591d14b940a1ebe485ff2bb2c3bb812aed75f2321c0a570279c963e"
     },
     {
       "path": "docs/developer/release-process.md",
-      "sha256": "258433dc9a008ce5eb6c49a09a1893997d80b5af553409340c61a5b636caae4a",
-      "size": 724
+      "size": 724,
+      "sha256": "258433dc9a008ce5eb6c49a09a1893997d80b5af553409340c61a5b636caae4a"
     },
     {
       "path": "docs/getting-started/installation.md",
-      "sha256": "01938dcd461358cacfa2e18701ed394df29b74b0d1d43cad32f1652f16b8441e",
-      "size": 4624
+      "size": 4624,
+      "sha256": "01938dcd461358cacfa2e18701ed394df29b74b0d1d43cad32f1652f16b8441e"
     },
     {
       "path": "docs/getting-started/quick-start.md",
-      "sha256": "24a4f449e2f5de00525a191c2901b7cf7e8ddd56fb8639732875ad08116d60e7",
-      "size": 908
+      "size": 908,
+      "sha256": "24a4f449e2f5de00525a191c2901b7cf7e8ddd56fb8639732875ad08116d60e7"
     },
     {
       "path": "docs/operations/backup-recovery.md",
-      "sha256": "d4742f8def259c4c760e9c319ced2b1722fb8afd0aa0c4c794358ee68ff6dcb2",
-      "size": 1823
+      "size": 1823,
+      "sha256": "d4742f8def259c4c760e9c319ced2b1722fb8afd0aa0c4c794358ee68ff6dcb2"
     },
     {
       "path": "docs/operations/deployment-and-upgrades.md",
-      "sha256": "29a6ccb16fbc6c76b40828a044efcc76377f390412ebac993dc26e5a4e9e083f",
-      "size": 1675
+      "size": 1675,
+      "sha256": "29a6ccb16fbc6c76b40828a044efcc76377f390412ebac993dc26e5a4e9e083f"
     },
     {
       "path": "docs/operations/health-center.md",
-      "sha256": "f0626a1027573a671c0efe9e668751cfbeb4a975fd34669ebf967c0d84043c02",
-      "size": 2041
+      "size": 2041,
+      "sha256": "f0626a1027573a671c0efe9e668751cfbeb4a975fd34669ebf967c0d84043c02"
     },
     {
       "path": "docs/operations/maintenance-center.md",
-      "sha256": "94df35c8d4a407a6a99280fc5fcfedc3d0f23976e8cc1517357b46e440a26a20",
-      "size": 1412
+      "size": 2087,
+      "sha256": "8cb1615ddba94d092c446ebc7bece759f734edb58010d107d4f3a413ef95b521"
     },
     {
       "path": "docs/operations/offline-updates.md",
-      "sha256": "0535eb860e3bc91cdbf0aacfe3202de63f45fb38c90218c4bf329f19f1efdd14",
-      "size": 2350
+      "size": 2350,
+      "sha256": "0535eb860e3bc91cdbf0aacfe3202de63f45fb38c90218c4bf329f19f1efdd14"
     },
     {
       "path": "docs/operations/release-readiness-qa.md",
-      "sha256": "ca9306438a4621c19ac2bb291845162b4af6c6534c64596a9d49e721619556ee",
-      "size": 2919
+      "size": 2919,
+      "sha256": "ca9306438a4621c19ac2bb291845162b4af6c6534c64596a9d49e721619556ee"
     },
     {
       "path": "docs/operations/startup-performance.md",
-      "sha256": "dee26059373c666b0fc8f3e47faee6af761e5bd6bd5c95823eebb5f79fc0609f",
-      "size": 957
+      "size": 957,
+      "sha256": "dee26059373c666b0fc8f3e47faee6af761e5bd6bd5c95823eebb5f79fc0609f"
     },
     {
       "path": "docs/operations/troubleshooting.md",
-      "sha256": "5a23cd7460b1209ed1bb65a1b0ece66989c1114e97d9d62367f4cd23afccb1b8",
-      "size": 1158
+      "size": 1158,
+      "sha256": "5a23cd7460b1209ed1bb65a1b0ece66989c1114e97d9d62367f4cd23afccb1b8"
     },
     {
       "path": "docs/operations/update-index.example.json",
-      "sha256": "651fbad7eab51101a6790216be65544782950e189ddba6e19bf97603b0382e14",
-      "size": 342
+      "size": 342,
+      "sha256": "651fbad7eab51101a6790216be65544782950e189ddba6e19bf97603b0382e14"
     },
     {
       "path": "docs/user-guide/README.md",
-      "sha256": "ddab2b4968cc9040b18c21154c4a2f7ec8257d3f361cbad5475fabbafa4a6b24",
-      "size": 1296
+      "size": 1446,
+      "sha256": "0d759d2832eeae59bd613300db709d5e69dc4fcd92021fd12dc9a09cfb6bb988"
     },
     {
       "path": "docs/user-guide/ai-and-resources.md",
-      "sha256": "8bab122e990ffc96ec26416d4d06eadcc251fc47f1ffd2af0a02d0e0d80ce810",
-      "size": 646
+      "size": 646,
+      "sha256": "8bab122e990ffc96ec26416d4d06eadcc251fc47f1ffd2af0a02d0e0d80ce810"
     },
     {
       "path": "docs/user-guide/help-system.md",
-      "sha256": "2b9761856d2bde81a1db31d5d99a1d9ca1b669d41ce07d1d6abee0f3d582b4d5",
-      "size": 1163
+      "size": 1362,
+      "sha256": "6f365ecaf440ec464e62cbc094bddb52c47e4878fd185415d6b6264bae01bba7"
     },
     {
       "path": "docs/user-guide/import-export.md",
-      "sha256": "d00a910ed7ffdac93a507e816389fc23e2cb0244dda363a5572cb9173d1ac63a",
-      "size": 725
+      "size": 725,
+      "sha256": "d00a910ed7ffdac93a507e816389fc23e2cb0244dda363a5572cb9173d1ac63a"
     },
     {
       "path": "docs/user-guide/native-update-recovery.md",
-      "sha256": "846159169bb470e914de5720e8ac85338e0d66c088cffb01b988a3a79c630bf5",
-      "size": 1281
+      "size": 1281,
+      "sha256": "846159169bb470e914de5720e8ac85338e0d66c088cffb01b988a3a79c630bf5"
+    },
+    {
+      "path": "docs/user-guide/offline-maps.md",
+      "size": 3749,
+      "sha256": "15391ab033e9528d747005d5e80c26a83e2efcc9d3608c3ceb765826b5ce1493"
     },
     {
       "path": "docs/user-guide/roadmap.md",
-      "sha256": "eb1ab4f009098ad6d5a4121265efc3a28dca1034efdc9814f734bf2aaa89c693",
-      "size": 7274
+      "size": 7274,
+      "sha256": "eb1ab4f009098ad6d5a4121265efc3a28dca1034efdc9814f734bf2aaa89c693"
     },
     {
       "path": "docs/user-guide/taxonomy-library.md",
-      "sha256": "b290ba43499ca2d7c4c4cf8ded41975af028d142006915aa3aeb9aa0dd608dfd",
-      "size": 1222
+      "size": 1222,
+      "sha256": "b290ba43499ca2d7c4c4cf8ded41975af028d142006915aa3aeb9aa0dd608dfd"
     },
     {
       "path": "environment/README.md",
-      "sha256": "073d24994678bf197c578f08ec15bc8e0e66c10745e3e12378a874676262f12e",
-      "size": 1161
+      "size": 1161,
+      "sha256": "073d24994678bf197c578f08ec15bc8e0e66c10745e3e12378a874676262f12e"
     },
     {
       "path": "environment/environment-core.yml",
-      "sha256": "fe02996e55c27b1665cca5ca8a66852736fa795f24fb9ee5a46cab917072e913",
-      "size": 212
+      "size": 212,
+      "sha256": "fe02996e55c27b1665cca5ca8a66852736fa795f24fb9ee5a46cab917072e913"
     },
     {
       "path": "environment/environment-dev.yml",
-      "sha256": "3860f976b0d0ac79f8209b19b9174cd2c66b43fdfc27fb3e7d1155a70c1b7605",
-      "size": 247
+      "size": 247,
+      "sha256": "3860f976b0d0ac79f8209b19b9174cd2c66b43fdfc27fb3e7d1155a70c1b7605"
     },
     {
       "path": "environment/environment-full.yml",
-      "sha256": "7c6c5b4adaaf456a896db7e408ec6c9a1d5013d4df74f13b8bb5a73f42d58bba",
-      "size": 210
+      "size": 210,
+      "sha256": "7c6c5b4adaaf456a896db7e408ec6c9a1d5013d4df74f13b8bb5a73f42d58bba"
     },
     {
       "path": "environment/environment-gui.yml",
-      "sha256": "ea632a8d76d66591131b11dc31ade2ca92986f4f7a8c5f37a18736392cdbd915",
-      "size": 211
+      "size": 211,
+      "sha256": "ea632a8d76d66591131b11dc31ade2ca92986f4f7a8c5f37a18736392cdbd915"
     },
     {
       "path": "environment/environment.yml",
-      "sha256": "5ca10d66f3697447ad48c31719c7b13cb764b453683d216c3dd611b3a8cfb89d",
-      "size": 243
+      "size": 243,
+      "sha256": "5ca10d66f3697447ad48c31719c7b13cb764b453683d216c3dd611b3a8cfb89d"
     },
     {
       "path": "github/workflows/ci.yml",
-      "sha256": "7f4e1544c1afd57ab3316f0bcabc262a5b5e2223099019567eb043d542ed8ff2",
-      "size": 553
+      "size": 553,
+      "sha256": "7f4e1544c1afd57ab3316f0bcabc262a5b5e2223099019567eb043d542ed8ff2"
     },
     {
       "path": "gitignore",
-      "sha256": "d42420d1f2dfd759589b84826f183a48dc1a1174fa00aa000182732882a4cbfa",
-      "size": 157
+      "size": 157,
+      "sha256": "d42420d1f2dfd759589b84826f183a48dc1a1174fa00aa000182732882a4cbfa"
     },
     {
       "path": "pyproject.toml",
-      "sha256": "333673994490da1007698dd1c9181690d36cbf6e488992009caae0a52118a3f6",
-      "size": 3555
+      "size": 3580,
+      "sha256": "b798cd00956a7ee10ff983c5d64a8ceda41e6441ed632f6b8671b55994bc085a"
     },
     {
       "path": "requirements/ai.txt",
-      "sha256": "1db514713bbba9d686c66c2f17819dbb5f502239c24a0b3f6ded23e4540caf11",
-      "size": 53
+      "size": 53,
+      "sha256": "1db514713bbba9d686c66c2f17819dbb5f502239c24a0b3f6ded23e4540caf11"
     },
     {
       "path": "requirements/constraints-py311.txt",
-      "sha256": "0a444fb829edc13be942dd285639ae95f8205b746de87c07bb86fee679a1ec68",
-      "size": 588
+      "size": 588,
+      "sha256": "0a444fb829edc13be942dd285639ae95f8205b746de87c07bb86fee679a1ec68"
     },
     {
       "path": "requirements/core.txt",
-      "sha256": "83dd2c89cbb9d63174abbc8a637d2bb108060a8477a11267bf5ef62aceefa273",
-      "size": 111
+      "size": 117,
+      "sha256": "04c2dad3a1ba18a1ff06aab3cd3a2dc0c178222a77257531efca1ccd9e47b141"
     },
     {
       "path": "requirements/dev.txt",
-      "sha256": "5275b05d3362012f426e620b72384a3f1e6f525238d47c516a13e95153a57515",
-      "size": 82
+      "size": 82,
+      "sha256": "5275b05d3362012f426e620b72384a3f1e6f525238d47c516a13e95153a57515"
     },
     {
       "path": "requirements/gui.txt",
-      "sha256": "acf1de96b4ed4abb64b0a8357728083a8a20499c944de955f4e97f7421de8c74",
-      "size": 20
+      "size": 20,
+      "sha256": "acf1de96b4ed4abb64b0a8357728083a8a20499c944de955f4e97f7421de8c74"
     },
     {
       "path": "resources/README.md",
-      "sha256": "12bfc1ba101b64febf75782f4e85fae3084e57d1efbc17fab3c8c3c6e6076bb0",
-      "size": 2528
+      "size": 2528,
+      "sha256": "12bfc1ba101b64febf75782f4e85fae3084e57d1efbc17fab3c8c3c6e6076bb0"
     },
     {
       "path": "resources/aperture-backup-recovery.ico",
-      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b",
-      "size": 4154
+      "size": 4154,
+      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b"
     },
     {
       "path": "resources/aperture.ico",
-      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b",
-      "size": 4154
+      "size": 4154,
+      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b"
     },
     {
       "path": "resources/default-branding.toml",
-      "sha256": "716c1d227d964f9be981d1177a23a5692e0c59d0a03d43c41721d31724c861ae",
-      "size": 226
+      "size": 226,
+      "sha256": "716c1d227d964f9be981d1177a23a5692e0c59d0a03d43c41721d31724c861ae"
     },
     {
       "path": "resources/templates/ecological-context.example.csv",
-      "sha256": "fa09b4c5b67ce570114aea456a04b59be4bd251d0d666772c47c3c37198f8f21",
-      "size": 244
+      "size": 244,
+      "sha256": "fa09b4c5b67ce570114aea456a04b59be4bd251d0d666772c47c3c37198f8f21"
     },
     {
       "path": "resources/templates/model-package.example.json",
-      "sha256": "0d7690dcb5a5a0063e0599fbd69d214604bcac028053a1f7a641f761e19d79f7",
-      "size": 807
+      "size": 807,
+      "sha256": "0d7690dcb5a5a0063e0599fbd69d214604bcac028053a1f7a641f761e19d79f7"
     },
     {
       "path": "resources/templates/prompt-set.example.json",
-      "sha256": "ab63d67dc513f0f1a0d6a3499931583a998fedf00a7be5e0689eef4eefc4d718",
-      "size": 394
+      "size": 394,
+      "sha256": "ab63d67dc513f0f1a0d6a3499931583a998fedf00a7be5e0689eef4eefc4d718"
     },
     {
       "path": "resources/templates/taxonomy-package.example.json",
-      "sha256": "e8071333cbf430b6976b97e6957602593243c48fc9154b39f9659c53a9076e55",
-      "size": 345
+      "size": 345,
+      "sha256": "e8071333cbf430b6976b97e6957602593243c48fc9154b39f9659c53a9076e55"
     },
     {
       "path": "resources/templates/taxonomy.example.csv",
-      "sha256": "2f8ef20c1827ecca18f4f6cd232df7c54ca4d7a8f9fbcea949f4c0427cbb7387",
-      "size": 176
+      "size": 176,
+      "sha256": "2f8ef20c1827ecca18f4f6cd232df7c54ca4d7a8f9fbcea949f4c0427cbb7387"
     },
     {
       "path": "scripts/benchmark_persistence.py",
-      "sha256": "4922985a4f87f025b11375801b9ce6282d4affd42e7e93d4dfa1a1889270ad4d",
-      "size": 1885
+      "size": 1885,
+      "sha256": "4922985a4f87f025b11375801b9ce6282d4affd42e7e93d4dfa1a1889270ad4d"
     },
     {
       "path": "scripts/build_aperture_windows_installer.ps1",
-      "sha256": "15aaab51470e15fd9119b7ee0559987ca9a179b23fddda29e9932608a70182ad",
-      "size": 11804
+      "size": 11804,
+      "sha256": "15aaab51470e15fd9119b7ee0559987ca9a179b23fddda29e9932608a70182ad"
     },
     {
       "path": "scripts/cleanup_old_builds.ps1",
-      "sha256": "602d1765f2a2d3be0e54e8ff9c023bda6222f3a9af4953f7cac53dbbbf3066bb",
-      "size": 1167
+      "size": 1167,
+      "sha256": "602d1765f2a2d3be0e54e8ff9c023bda6222f3a9af4953f7cac53dbbbf3066bb"
     },
     {
       "path": "scripts/collect_installer_diagnostics.ps1",
-      "sha256": "10e39f3cb989f0becd47d3341c4d89429a64e71899859a505d966b206172df9f",
-      "size": 1756
+      "size": 1756,
+      "sha256": "10e39f3cb989f0becd47d3341c4d89429a64e71899859a505d966b206172df9f"
     },
     {
       "path": "scripts/deployment_preflight.py",
-      "sha256": "6cb1ab379c4bf468737b4bb819c6336857ea970a231c9e11d5bf8ca2246eb55d",
-      "size": 3649
+      "size": 3649,
+      "sha256": "6cb1ab379c4bf468737b4bb819c6336857ea970a231c9e11d5bf8ca2246eb55d"
     },
     {
       "path": "scripts/install_aperture_frontend.ps1",
-      "sha256": "a097fdc45e238d0af8f88c7579622184e2d4bbe2ba71e118dc41a274fed95103",
-      "size": 10901
+      "size": 10901,
+      "sha256": "a097fdc45e238d0af8f88c7579622184e2d4bbe2ba71e118dc41a274fed95103"
     },
     {
       "path": "scripts/install_staged_update.ps1",
-      "sha256": "02c4fb0fd0aa341415834ac8991f7af38e75161c392d903390380109290a0666",
-      "size": 2148
+      "size": 2148,
+      "sha256": "02c4fb0fd0aa341415834ac8991f7af38e75161c392d903390380109290a0666"
     },
     {
       "path": "scripts/install_windows.ps1",
-      "sha256": "5406501dbfb6954244094d31e8a6fa3327ab2fa217351cee11e6293969fc4583",
-      "size": 32597
+      "size": 32597,
+      "sha256": "5406501dbfb6954244094d31e8a6fa3327ab2fa217351cee11e6293969fc4583"
     },
     {
       "path": "scripts/repair_windows_integration.ps1",
-      "sha256": "477ecfdb1db268c4d995e7a389b90d276cbe4e89f58f88200676292510fe2ad8",
-      "size": 640
+      "size": 640,
+      "sha256": "477ecfdb1db268c4d995e7a389b90d276cbe4e89f58f88200676292510fe2ad8"
     },
     {
       "path": "scripts/restore_staged_backup.ps1",
-      "sha256": "cbf351b341e7ed4ee508967be743c81a4c8a8cd10264a9fd214ac099af0bc64d",
-      "size": 1531
+      "size": 1531,
+      "sha256": "cbf351b341e7ed4ee508967be743c81a4c8a8cd10264a9fd214ac099af0bc64d"
     },
     {
       "path": "scripts/select_natureai_library.bat",
-      "sha256": "e92d4c5803ccae9934d0fbb837da87688e3d1af4e873bfcb0865cd2b3b6e28cb",
-      "size": 316
+      "size": 316,
+      "sha256": "e92d4c5803ccae9934d0fbb837da87688e3d1af4e873bfcb0865cd2b3b6e28cb"
     },
     {
       "path": "scripts/start_admin_console.bat",
-      "sha256": "71bc5b4b9b930668ad63cd954ebfe57dd29446cfca4fd6d4e555e1aa4e4323ae",
-      "size": 261
+      "size": 261,
+      "sha256": "71bc5b4b9b930668ad63cd954ebfe57dd29446cfca4fd6d4e555e1aa4e4323ae"
     },
     {
       "path": "scripts/start_natureai_next.bat",
-      "sha256": "259e07d07eba01867f25619f7aa78bbda55e07e75114b09babb9e9ffb703b5e4",
-      "size": 312
+      "size": 312,
+      "sha256": "259e07d07eba01867f25619f7aa78bbda55e07e75114b09babb9e9ffb703b5e4"
     },
     {
       "path": "scripts/start_natureai_next_debug.bat",
-      "sha256": "5596ebd24752f61c2439693feb65a334bf2b9a8f91adefa5ae1ba238bf982a80",
-      "size": 318
+      "size": 318,
+      "sha256": "5596ebd24752f61c2439693feb65a334bf2b9a8f91adefa5ae1ba238bf982a80"
     },
     {
       "path": "scripts/start_windows.ps1",
-      "sha256": "5a6ac4f72e62067354e3457dee19d913af5dd51c75699355208526ef059947cd",
-      "size": 597
+      "size": 597,
+      "sha256": "5a6ac4f72e62067354e3457dee19d913af5dd51c75699355208526ef059947cd"
     },
     {
       "path": "scripts/uninstall_windows.ps1",
-      "sha256": "b841c2414e2c120d4b07ea4ee7b7f81e320d35888d9370fbd6db60ade07d97db",
-      "size": 8621
+      "size": 8621,
+      "sha256": "b841c2414e2c120d4b07ea4ee7b7f81e320d35888d9370fbd6db60ade07d97db"
     },
     {
       "path": "scripts/validate.py",
-      "sha256": "5423e95b8a6690527969e05289efcedba447f096c9f39590e8b90be742fc1417",
-      "size": 1174
+      "size": 1174,
+      "sha256": "5423e95b8a6690527969e05289efcedba447f096c9f39590e8b90be742fc1417"
     },
     {
       "path": "scripts/verify_install.bat",
-      "sha256": "adcaa57773d4cd68082d45081755c0182eb836c83b1b9e550f7e464f77bb267d",
-      "size": 345
+      "size": 345,
+      "sha256": "adcaa57773d4cd68082d45081755c0182eb836c83b1b9e550f7e464f77bb267d"
     },
     {
       "path": "scripts/verify_install.py",
-      "sha256": "a3a152e201b09c47b1580eab94d869575c47e82bc9f8edb228accbc07d008666",
-      "size": 3551
+      "size": 3551,
+      "sha256": "a3a152e201b09c47b1580eab94d869575c47e82bc9f8edb228accbc07d008666"
     },
     {
       "path": "src/natureai_next/__init__.py",
-      "sha256": "8b00e2d13533e3948c60896c844021f943deaea21eee7c546af6cb630120491f",
-      "size": 25
+      "size": 31,
+      "sha256": "833bda626eb583ff42de959def36d6a31eaf0c1717bac75f7a0475d174ca6d2e"
     },
     {
       "path": "src/natureai_next/application/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/application/ai.py",
-      "sha256": "c1f4f55652ceb68c241db7a70dce8f711a3ad8ab6849ef6a1cf6280b60a478e4",
-      "size": 5271
+      "size": 5271,
+      "sha256": "c1f4f55652ceb68c241db7a70dce8f711a3ad8ab6849ef6a1cf6280b60a478e4"
     },
     {
       "path": "src/natureai_next/application/ai_generation.py",
-      "sha256": "3bc76b56a881c66697f012b7f69167856a748d8b4e625a020a57040d5b89e4dd",
-      "size": 11102
+      "size": 14410,
+      "sha256": "fd153a88df0594d2d4252e9afe2536cb12499c59b04e3fe4003f5ec3d8c69387"
     },
     {
       "path": "src/natureai_next/application/ai_resources.py",
-      "sha256": "7a190e3b80f3e76a71e8b90077f16135055a33d0a5e68a20c38348216276be6e",
-      "size": 5739
+      "size": 5739,
+      "sha256": "7a190e3b80f3e76a71e8b90077f16135055a33d0a5e68a20c38348216276be6e"
     },
     {
       "path": "src/natureai_next/application/ai_review.py",
-      "sha256": "495bedc5ac27be6666f077dd327ddc76a8d6afb5dd4bdabdeff89a7d7e160294",
-      "size": 21677
+      "size": 21677,
+      "sha256": "495bedc5ac27be6666f077dd327ddc76a8d6afb5dd4bdabdeff89a7d7e160294"
     },
     {
       "path": "src/natureai_next/application/ai_runtime.py",
-      "sha256": "913d7e96d2aba11d8f663f06dc09c027097a4cc72e6a6a3f12153ea5cebc9bfc",
-      "size": 5139
+      "size": 5139,
+      "sha256": "913d7e96d2aba11d8f663f06dc09c027097a4cc72e6a6a3f12153ea5cebc9bfc"
     },
     {
       "path": "src/natureai_next/application/ai_setup.py",
-      "sha256": "377a9b883e4b250fabffc187e44b110d6d5f566a513fd2715bb26ede7791d192",
-      "size": 12815
+      "size": 14441,
+      "sha256": "4fe05612d6628a6042b8cadf4c8bc5e456d7fc9d647c1ea69499dd197414a5e2"
+    },
+    {
+      "path": "src/natureai_next/application/asset_analysis.py",
+      "size": 2926,
+      "sha256": "29af3e7bef63c79900d84a2f530149f8570ce948feef07606d82045bf75a9986"
     },
     {
       "path": "src/natureai_next/application/audit.py",
-      "sha256": "a4853691191ec08e453864b35f285b243ebfc3189771df75e2c54018eb22d155",
-      "size": 1411
+      "size": 1411,
+      "sha256": "a4853691191ec08e453864b35f285b243ebfc3189771df75e2c54018eb22d155"
     },
     {
       "path": "src/natureai_next/application/backup.py",
-      "sha256": "75a1e5cc0cd564878cb3aac28af528491ed00fe1cff62a80e010f652e7252741",
-      "size": 2577
+      "size": 2577,
+      "sha256": "75a1e5cc0cd564878cb3aac28af528491ed00fe1cff62a80e010f652e7252741"
     },
     {
       "path": "src/natureai_next/application/branding.py",
-      "sha256": "9129ff51a6aeb2a2367776f391d56b4ac7b6778dfaae915e1af9aac7c2197ca7",
-      "size": 2365
+      "size": 2365,
+      "sha256": "9129ff51a6aeb2a2367776f391d56b4ac7b6778dfaae915e1af9aac7c2197ca7"
+    },
+    {
+      "path": "src/natureai_next/application/capabilities.py",
+      "size": 3433,
+      "sha256": "647525f6580c0da0d589781f86db52dd07d160d30ba9b4e81c51f9bfc8f69c09"
     },
     {
       "path": "src/natureai_next/application/catalog_browsing.py",
-      "sha256": "55938be6352dc6a34435666b28de806150ef0535be731980237a7a789ebe7369",
-      "size": 2750
+      "size": 2750,
+      "sha256": "55938be6352dc6a34435666b28de806150ef0535be731980237a7a789ebe7369"
     },
     {
       "path": "src/natureai_next/application/catalog_maintenance.py",
-      "sha256": "0429e9d54457cf54e7cf27e34b48ba04227d768b1beeb4fab2c722dc3665fa17",
-      "size": 5036
+      "size": 11442,
+      "sha256": "f27592c3bb1f2c5e7fa07ca4af4aa542644dc96526ea5579eeabe9ab01ad0750"
+    },
+    {
+      "path": "src/natureai_next/application/certification.py",
+      "size": 7174,
+      "sha256": "0ea591b2b49b3afd5b84e5c9e46cc841e1dbae93788179557fb9388e80dcd46c"
     },
     {
       "path": "src/natureai_next/application/configuration.py",
-      "sha256": "a2e1819a98ed7ba2794f87a8936501be52dcf0d19464d38c7a460822b688eda5",
-      "size": 7389
+      "size": 7389,
+      "sha256": "a2e1819a98ed7ba2794f87a8936501be52dcf0d19464d38c7a460822b688eda5"
     },
     {
       "path": "src/natureai_next/application/configuration_service.py",
-      "sha256": "51a868193c2e02f4a3606ced3783aba145993599eeeb77fa120c93d980f0fa8d",
-      "size": 5351
+      "size": 5351,
+      "sha256": "51a868193c2e02f4a3606ced3783aba145993599eeeb77fa120c93d980f0fa8d"
     },
     {
       "path": "src/natureai_next/application/ecology.py",
-      "sha256": "fb3ed8a5e36abdd00644e4e724616ac30ec719489dfbf72d37d869143cbfcb7a",
-      "size": 3952
+      "size": 3952,
+      "sha256": "fb3ed8a5e36abdd00644e4e724616ac30ec719489dfbf72d37d869143cbfcb7a"
+    },
+    {
+      "path": "src/natureai_next/application/event_bus.py",
+      "size": 1315,
+      "sha256": "be334528281c2860f990e3c1925aedc04c31041f7efb10d797265bd1fcaaaa2d"
     },
     {
       "path": "src/natureai_next/application/exporting.py",
-      "sha256": "08678eb3ea57e8bcd51c11b0ee2e05075c909b312554a4cf07ab2232bd338257",
-      "size": 13320
+      "size": 13320,
+      "sha256": "08678eb3ea57e8bcd51c11b0ee2e05075c909b312554a4cf07ab2232bd338257"
+    },
+    {
+      "path": "src/natureai_next/application/geofabrik_maps.py",
+      "size": 19272,
+      "sha256": "78380250a9ce65e547896a52951ba138c92b87b8dc724c316ac1c3b0979b268d"
     },
     {
       "path": "src/natureai_next/application/health.py",
-      "sha256": "ab56a8eb14141c9ee99f2685d5392374178450d6efd5f7833eaf36c9add47a0b",
-      "size": 10305
+      "size": 15178,
+      "sha256": "682e02d1ab8aeec7a0b14a1f924471e89ce26c73b724ddeb151b8f05bebe9e33"
     },
     {
       "path": "src/natureai_next/application/import_service.py",
-      "sha256": "5e95bd70adb0f55407d2383e5d11761523ed2a1583f4d7b2ca573e1fbd549851",
-      "size": 16516
+      "size": 19711,
+      "sha256": "3ec13615a5960946d5beef5a974e8763d4ac09449ff7b46dd4b87bf7977491ed"
     },
     {
       "path": "src/natureai_next/application/jobs.py",
-      "sha256": "1f270467a96adb5e78338a717ae9943af82ef0c48c4cf6426dee4f5c36792fc2",
-      "size": 2877
+      "size": 2877,
+      "sha256": "1f270467a96adb5e78338a717ae9943af82ef0c48c4cf6426dee4f5c36792fc2"
+    },
+    {
+      "path": "src/natureai_next/application/knowledge_center.py",
+      "size": 4735,
+      "sha256": "57862aef37f5b4c5f2d7855e7ce625062239533ce97204424bf17cccb25dcb3f"
+    },
+    {
+      "path": "src/natureai_next/application/knowledge_engine.py",
+      "size": 6865,
+      "sha256": "57238fccdb3e4890419691633efcfa372325769031917798fc55b37de99e97e5"
+    },
+    {
+      "path": "src/natureai_next/application/launcher_configuration.py",
+      "size": 2324,
+      "sha256": "56d6d582059c408f454d5e30ea7f3cae46295900ec766914f61917cdf858698a"
     },
     {
       "path": "src/natureai_next/application/library.py",
-      "sha256": "81ee0b3e43a03e8ff8c100f11c2944202837cfe7f61c50767ac7028b65dbd2e3",
-      "size": 985
+      "size": 985,
+      "sha256": "81ee0b3e43a03e8ff8c100f11c2944202837cfe7f61c50767ac7028b65dbd2e3"
     },
     {
       "path": "src/natureai_next/application/library_service.py",
-      "sha256": "594d9bf476ef4dd9c6e63d9300bb06381dbf2b9eeef8615a947a4d30c5fe111f",
-      "size": 4402
+      "size": 4402,
+      "sha256": "594d9bf476ef4dd9c6e63d9300bb06381dbf2b9eeef8615a947a4d30c5fe111f"
+    },
+    {
+      "path": "src/natureai_next/application/maintenance_inventory.py",
+      "size": 6855,
+      "sha256": "fd520172dfae568e28d2586f0d077127d27359bec34faf08dd01f54ee32e5414"
+    },
+    {
+      "path": "src/natureai_next/application/map_acquisition.py",
+      "size": 21169,
+      "sha256": "44369639dfc218df93569bef17ce53edb8e6f63561e30123f37ea6aed32c61e1"
+    },
+    {
+      "path": "src/natureai_next/application/map_workspace.py",
+      "size": 5731,
+      "sha256": "ae4d940473d4a8a186ba75779875b58bf7e96c8ef3801946f2f288654d074a99"
     },
     {
       "path": "src/natureai_next/application/native_handoff.py",
-      "sha256": "8ad496b07282e1323907ee710c2f4f5a95933907f3847624418b9a6245dc3cb8",
-      "size": 3479
+      "size": 3479,
+      "sha256": "8ad496b07282e1323907ee710c2f4f5a95933907f3847624418b9a6245dc3cb8"
     },
     {
       "path": "src/natureai_next/application/observation_intelligence.py",
-      "sha256": "de25e66260920221faa4b52245f1999acb8e61f3cd5813dbe3a376074a4bba82",
-      "size": 2995
+      "size": 3807,
+      "sha256": "ad470bc0766dea0fe0cd650deb365e7f8d01ac1f03086c769d503f6371376345"
     },
     {
       "path": "src/natureai_next/application/recovery.py",
-      "sha256": "9b1f77a9ab141082d278988f5a7417a2db452ea6e84568c429bbeb5a5d51f899",
-      "size": 5196
+      "size": 5196,
+      "sha256": "9b1f77a9ab141082d278988f5a7417a2db452ea6e84568c429bbeb5a5d51f899"
+    },
+    {
+      "path": "src/natureai_next/application/reference_taxonomy.py",
+      "size": 1119,
+      "sha256": "a56809e85c937a90faaa01eb3c30887ca8ea5e15af3dd1aa6e84667db5cc3629"
     },
     {
       "path": "src/natureai_next/application/regional.py",
-      "sha256": "83e05d080179f1712ce45720a69cc4293872e14c2f3fcf8283ec48582b0384f9",
-      "size": 946
+      "size": 946,
+      "sha256": "83e05d080179f1712ce45720a69cc4293872e14c2f3fcf8283ec48582b0384f9"
     },
     {
       "path": "src/natureai_next/application/regional_acquisition.py",
-      "sha256": "11ad2d91dc3c0a1fb3930511c1a9b98772a70a8245abd449064d0081e0586b4c",
-      "size": 13980
+      "size": 15058,
+      "sha256": "c88ecfeb99d0b38fc675c5198b2dcac9c8ced116ccb3d62a5540b26e672587cf"
+    },
+    {
+      "path": "src/natureai_next/application/resource_manager.py",
+      "size": 2035,
+      "sha256": "b819170d5faa9c45af46889da1baa546f454bd605c3a4b8ad1a8e10355db3230"
+    },
+    {
+      "path": "src/natureai_next/application/retention.py",
+      "size": 5910,
+      "sha256": "e936449755403154d216739fdd0c155fc86c8da53d767117d1965f0489e1e0b1"
     },
     {
       "path": "src/natureai_next/application/search.py",
-      "sha256": "c92d53991d01c09b62a783d3249738c285b0b92fe0e95234c713a9d7c8d95eac",
-      "size": 10689
+      "size": 10689,
+      "sha256": "c92d53991d01c09b62a783d3249738c285b0b92fe0e95234c713a9d7c8d95eac"
+    },
+    {
+      "path": "src/natureai_next/application/subsystems.py",
+      "size": 929,
+      "sha256": "003302fb94613bc6d32d2bfea5df316c3244332a4cb25b1e162268035363bf11"
     },
     {
       "path": "src/natureai_next/application/taxonomy.py",
-      "sha256": "0b7fa5729c7ca1af3fcf1351da0fb37fa01e8c0400c5391a9a97b067925558a4",
-      "size": 6524
+      "size": 6524,
+      "sha256": "0b7fa5729c7ca1af3fcf1351da0fb37fa01e8c0400c5391a9a97b067925558a4"
+    },
+    {
+      "path": "src/natureai_next/application/temporal_map.py",
+      "size": 2743,
+      "sha256": "5098592fbc64495b64ba69273e0c41b7a13fac62972f0c0cb2f630eb53144883"
     },
     {
       "path": "src/natureai_next/application/update_history.py",
-      "sha256": "f154271f857a8ab86805a9b9b619d5a0347229b2e23ac5655d24cb1bfa2cd1d9",
-      "size": 1920
+      "size": 1920,
+      "sha256": "f154271f857a8ab86805a9b9b619d5a0347229b2e23ac5655d24cb1bfa2cd1d9"
     },
     {
       "path": "src/natureai_next/application/updates.py",
-      "sha256": "2b4b00c2c74eb6adcbe648a3ded9267ae3a21dc745e9bf5c994b0b91860a2089",
-      "size": 6179
+      "size": 6179,
+      "sha256": "2b4b00c2c74eb6adcbe648a3ded9267ae3a21dc745e9bf5c994b0b91860a2089"
+    },
+    {
+      "path": "src/natureai_next/application/workflows.py",
+      "size": 2777,
+      "sha256": "c2aa8bcf84485449ba52eeda8296b1aed27c78dba14762a47756109a58d8cca7"
+    },
+    {
+      "path": "src/natureai_next/application/workspace_manager.py",
+      "size": 1470,
+      "sha256": "4a8de37cd9216022686843e69a2001a4d33fed44eb0e49315c6318bb533a8859"
     },
     {
       "path": "src/natureai_next/bootstrap/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/bootstrap/admin_cli.py",
-      "sha256": "09f6ab5670050848a39d165156e1652bd7b0aeb587fe2f6c5d8ec572821e1994",
-      "size": 13108
+      "size": 13108,
+      "sha256": "09f6ab5670050848a39d165156e1652bd7b0aeb587fe2f6c5d8ec572821e1994"
     },
     {
       "path": "src/natureai_next/bootstrap/aperture_launcher.py",
-      "sha256": "bde108895acbeb49a2fc411df5965c1ff9e2dc6905e806d72d1f04d846879ed6",
-      "size": 1966
+      "size": 1643,
+      "sha256": "593d0948d303fca9b49fbc262dbd7829ca1c3204f4c9cbd516489ccaf2354c4b"
     },
     {
       "path": "src/natureai_next/bootstrap/backup_recovery.py",
-      "sha256": "032143dc79e5f554a2fa25964a1f77e8a8dfd3f4c18e5ab7f088ef849e102ce7",
-      "size": 157
+      "size": 157,
+      "sha256": "032143dc79e5f554a2fa25964a1f77e8a8dfd3f4c18e5ab7f088ef849e102ce7"
     },
     {
       "path": "src/natureai_next/bootstrap/cli.py",
-      "sha256": "c5b4efd6a6a8b1d0f56854a9c885644a4585e9e87b92a4762d39db9417b21113",
-      "size": 11238
+      "size": 16643,
+      "sha256": "ba803be64a27be46d12d65ed73b3321c1d05683fe4898e3371d314eabf194915"
     },
     {
       "path": "src/natureai_next/bootstrap/container.py",
-      "sha256": "54d5fd7a57b5983f7eaf5ebcbd46d08584e0b518e5c96dc370ab660e77d02c3a",
-      "size": 2052
+      "size": 2605,
+      "sha256": "e092b34fa34ca0e38b279124ed4c4b70175f2302481f7084049f4f5893533e8f"
     },
     {
       "path": "src/natureai_next/bootstrap/maintenance_center.py",
-      "sha256": "e67450e6101d63f955f326ba5add12c9ecb22a08faaf620bf96b431a7771f75e",
-      "size": 1284
+      "size": 1284,
+      "sha256": "e67450e6101d63f955f326ba5add12c9ecb22a08faaf620bf96b431a7771f75e"
     },
     {
       "path": "src/natureai_next/bootstrap/native_recovery.py",
-      "sha256": "b44625f873e693d64536790c176e8e2ec7b35274ef78e8c6d482934bdf504073",
-      "size": 3330
+      "size": 3330,
+      "sha256": "b44625f873e693d64536790c176e8e2ec7b35274ef78e8c6d482934bdf504073"
     },
     {
       "path": "src/natureai_next/bootstrap/native_updater.py",
-      "sha256": "2c2a50efff39afcdeaf28b67f3c9c7d7456ec2766fdfde56b3474c20ad2506fe",
-      "size": 8019
+      "size": 8019,
+      "sha256": "2c2a50efff39afcdeaf28b67f3c9c7d7456ec2766fdfde56b3474c20ad2506fe"
     },
     {
       "path": "src/natureai_next/bootstrap/paths.py",
-      "sha256": "d638bf8b5341d6d83286f1450243792bfabff21eb5f2690c463890cc99260bf2",
-      "size": 2010
+      "size": 2285,
+      "sha256": "b5b2bfc41ddc711332638b63df547f7af31931a10aa75863f3c81dc81c72eff0"
     },
     {
       "path": "src/natureai_next/bootstrap/resource_cli.py",
-      "sha256": "c1e7260fa568dbed1dacd8e8c58810cb52c07fd7b059f3b08399beeda2ea8857",
-      "size": 14798
+      "size": 14798,
+      "sha256": "c1e7260fa568dbed1dacd8e8c58810cb52c07fd7b059f3b08399beeda2ea8857"
     },
     {
       "path": "src/natureai_next/bootstrap/startup_timing.py",
-      "sha256": "8313176d3bcd13a04422e0f789071cd580027f231a2a478b1da9aa7d0e084ba8",
-      "size": 2116
+      "size": 2116,
+      "sha256": "8313176d3bcd13a04422e0f789071cd580027f231a2a478b1da9aa7d0e084ba8"
     },
     {
       "path": "src/natureai_next/domain/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/domain/ai.py",
-      "sha256": "72a13f3c28aace1be27b787460e2687ff4871e1a248d35022224549920f53302",
-      "size": 7483
+      "size": 8562,
+      "sha256": "8c93e40943a0586293df9f006d33c00e095b7761bf745b19fc5c7ca0c01f5b13"
     },
     {
       "path": "src/natureai_next/domain/catalog.py",
-      "sha256": "804a194da2ab790058c5e38ea76809a8366d8fc2603e726dd7081025a93a4ca3",
-      "size": 2070
+      "size": 2070,
+      "sha256": "804a194da2ab790058c5e38ea76809a8366d8fc2603e726dd7081025a93a4ca3"
     },
     {
       "path": "src/natureai_next/domain/ecology.py",
-      "sha256": "9d27bf862267bb364159a299b29702bb3e69f620848313870e80c8f72de67137",
-      "size": 691
+      "size": 691,
+      "sha256": "9d27bf862267bb364159a299b29702bb3e69f620848313870e80c8f72de67137"
     },
     {
       "path": "src/natureai_next/domain/events.py",
-      "sha256": "384d77440a7136bab04bfdf0e466a620ccb220cb0ec6c77ecf59e9e3af2c84e7",
-      "size": 655
+      "size": 655,
+      "sha256": "384d77440a7136bab04bfdf0e466a620ccb220cb0ec6c77ecf59e9e3af2c84e7"
     },
     {
       "path": "src/natureai_next/domain/exporting.py",
-      "sha256": "d26eab17dd1352b1f6ac0fb6c624510fd88c616592faf61686c5343962d4e95e",
-      "size": 8095
+      "size": 8095,
+      "sha256": "d26eab17dd1352b1f6ac0fb6c624510fd88c616592faf61686c5343962d4e95e"
     },
     {
       "path": "src/natureai_next/domain/importing.py",
-      "sha256": "018ac444cbe486136ebdd860043260b1c40667a0c35a8059be42de6ab7fda28a",
-      "size": 1911
+      "size": 2076,
+      "sha256": "3222cc2a0367a38a2cb19119aee0337041d38bf3714fbed9a5186e6bae6d63fd"
     },
     {
       "path": "src/natureai_next/domain/jobs.py",
-      "sha256": "660a7e104590606ab86ff373646163a1d9a820e209a86ce897d25a0e54ac189c",
-      "size": 2870
+      "size": 2870,
+      "sha256": "660a7e104590606ab86ff373646163a1d9a820e209a86ce897d25a0e54ac189c"
     },
     {
       "path": "src/natureai_next/domain/observation_intelligence.py",
-      "sha256": "067a2cd3428966ac7c03313b15907a246eb66cccd5f5fa5e8c2adf384d0b9cfd",
-      "size": 2232
+      "size": 2232,
+      "sha256": "067a2cd3428966ac7c03313b15907a246eb66cccd5f5fa5e8c2adf384d0b9cfd"
     },
     {
       "path": "src/natureai_next/domain/regional.py",
-      "sha256": "19663840e7e44a972aea8d59b08e84f7f10b394e3bb7a730b43eb87ed2791c2a",
-      "size": 890
+      "size": 890,
+      "sha256": "19663840e7e44a972aea8d59b08e84f7f10b394e3bb7a730b43eb87ed2791c2a"
     },
     {
       "path": "src/natureai_next/domain/search.py",
-      "sha256": "75104d106d2d9cae82aa49ba37ca1b9b9def57c1e86301c7ab1c242a77ceb118",
-      "size": 7412
+      "size": 7412,
+      "sha256": "75104d106d2d9cae82aa49ba37ca1b9b9def57c1e86301c7ab1c242a77ceb118"
+    },
+    {
+      "path": "src/natureai_next/domain/spatial_intelligence.py",
+      "size": 1163,
+      "sha256": "5bb786a20fb9782c1e0f55c77b1ee09eee99154169635047f0e40bc4ad8d6175"
     },
     {
       "path": "src/natureai_next/domain/taxonomy.py",
-      "sha256": "113904220969b44b2ff982bad751d46a90c2e1523ee2b32b64f506951a28995d",
-      "size": 4442
+      "size": 4442,
+      "sha256": "113904220969b44b2ff982bad751d46a90c2e1523ee2b32b64f506951a28995d"
+    },
+    {
+      "path": "src/natureai_next/domain/temporal_movement.py",
+      "size": 2222,
+      "sha256": "4271d251c54f5bbea00678739aa052e7ecf89ce780d992f518a51ee1df1ea99c"
+    },
+    {
+      "path": "src/natureai_next/domain/workflows.py",
+      "size": 2592,
+      "sha256": "62673bb725dfe62cc440b5013593f3ba0fceb0f35c4f5e4476f3c8ceb5d57a36"
     },
     {
       "path": "src/natureai_next/infrastructure/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/gpu.py",
-      "sha256": "949dfe9a9130ff3df284088bf43628e2c9f341f9b5042920637fffe672d8a9e6",
-      "size": 2996
+      "size": 2996,
+      "sha256": "949dfe9a9130ff3df284088bf43628e2c9f341f9b5042920637fffe672d8a9e6"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/openclip_provider.py",
-      "sha256": "16332b88e3622d3f4505684494026225e5a8e5fc554310fa2294260dfd6a7692",
-      "size": 4631
+      "size": 4631,
+      "sha256": "16332b88e3622d3f4505684494026225e5a8e5fc554310fa2294260dfd6a7692"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/package.py",
-      "sha256": "7e1651fa24b31597f99f68235b693f196c4da5ddb21537c9e996f784d26deaa4",
-      "size": 11155
+      "size": 11155,
+      "sha256": "7e1651fa24b31597f99f68235b693f196c4da5ddb21537c9e996f784d26deaa4"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/preprocessing.py",
-      "sha256": "2bc645573b664b6faddb9899f23c1a4c60356f09cc664284ba8f5375038e9b28",
-      "size": 1060
+      "size": 1060,
+      "sha256": "2bc645573b664b6faddb9899f23c1a4c60356f09cc664284ba8f5375038e9b28"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/prompts.py",
-      "sha256": "0c4ee6d4710180cabe0591aab3a4a1013b031cefe91c5ccfff59bc2cfd82c787",
-      "size": 4498
+      "size": 4498,
+      "sha256": "0c4ee6d4710180cabe0591aab3a4a1013b031cefe91c5ccfff59bc2cfd82c787"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/residency.py",
-      "sha256": "25e82c15b15ae512dd909337b244ef8a41aa8da272af9c02ea296e61d30a5599",
-      "size": 2853
+      "size": 2853,
+      "sha256": "25e82c15b15ae512dd909337b244ef8a41aa8da272af9c02ea296e61d30a5599"
     },
     {
       "path": "src/natureai_next/infrastructure/ai/torch_provider.py",
-      "sha256": "096257f8fbdbace56a149dec5e51b10c67c92b6e8462ac899505b353352f9483",
-      "size": 3435
+      "size": 3435,
+      "sha256": "096257f8fbdbace56a149dec5e51b10c67c92b6e8462ac899505b353352f9483"
     },
     {
       "path": "src/natureai_next/infrastructure/database/__init__.py",
-      "sha256": "99ef829f6c1ac72822b533b0b45bb75dd99217618f62a271071da25fd63ae746",
-      "size": 311
+      "size": 311,
+      "sha256": "99ef829f6c1ac72822b533b0b45bb75dd99217618f62a271071da25fd63ae746"
     },
     {
       "path": "src/natureai_next/infrastructure/database/ai.py",
-      "sha256": "4791f987d7ae867b3dc6f3ea2ff397541dc55fcf759891d2d8e80b55fec505ea",
-      "size": 11914
+      "size": 11914,
+      "sha256": "4791f987d7ae867b3dc6f3ea2ff397541dc55fcf759891d2d8e80b55fec505ea"
     },
     {
       "path": "src/natureai_next/infrastructure/database/ai_generation.py",
-      "sha256": "0ec3a692f1126987ea71f83d01526d8c7280d6b1673990ec13ecc6f7bf832d98",
-      "size": 17530
+      "size": 17530,
+      "sha256": "0ec3a692f1126987ea71f83d01526d8c7280d6b1673990ec13ecc6f7bf832d98"
     },
     {
       "path": "src/natureai_next/infrastructure/database/ai_review.py",
-      "sha256": "21cd9ccc4a51869cf76dc0fbf779a9e6433bbfc1a164677a3966ec2fea5342bb",
-      "size": 38363
+      "size": 38962,
+      "sha256": "6cd92250cb547ed527468358dc615ff553e155cdf78d9c7a253956693d3e4bf1"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/analyses.py",
+      "size": 8123,
+      "sha256": "5024d7e5fbf80545446b4e977ce167921daa1d7091489ec514cb79a566af76da"
     },
     {
       "path": "src/natureai_next/infrastructure/database/backup.py",
-      "sha256": "f6ae8235e1518f874a0f7e967e62b472412438d07f48150dba81d7c0f74f47c8",
-      "size": 938
+      "size": 938,
+      "sha256": "f6ae8235e1518f874a0f7e967e62b472412438d07f48150dba81d7c0f74f47c8"
     },
     {
       "path": "src/natureai_next/infrastructure/database/catalog_gui.py",
-      "sha256": "6adb33d776cca2e2afb925a777185ba913859b18cf9c5a0ed2c3f00cd8089659",
-      "size": 9386
+      "size": 9386,
+      "sha256": "6adb33d776cca2e2afb925a777185ba913859b18cf9c5a0ed2c3f00cd8089659"
     },
     {
       "path": "src/natureai_next/infrastructure/database/connection.py",
-      "sha256": "1a43d2aaa6e5a733900c953a929262e54515eff852198d04d070dab4eb15ec1d",
-      "size": 1443
+      "size": 1443,
+      "sha256": "1a43d2aaa6e5a733900c953a929262e54515eff852198d04d070dab4eb15ec1d"
     },
     {
       "path": "src/natureai_next/infrastructure/database/derivative_export_plans.py",
-      "sha256": "3b4ce4b99dcf367c985e1d74d2ab1e36e4fd8516acc9b793f391ea33d67dc455",
-      "size": 11576
+      "size": 11576,
+      "sha256": "3b4ce4b99dcf367c985e1d74d2ab1e36e4fd8516acc9b793f391ea33d67dc455"
     },
     {
       "path": "src/natureai_next/infrastructure/database/ecology.py",
-      "sha256": "4be4359b3be7767ddb7abfa1ba1c1e0f189bd0409a87fd04a2cfc35f56a2adbb",
-      "size": 4153
+      "size": 4153,
+      "sha256": "4be4359b3be7767ddb7abfa1ba1c1e0f189bd0409a87fd04a2cfc35f56a2adbb"
     },
     {
       "path": "src/natureai_next/infrastructure/database/export_plans.py",
-      "sha256": "f1413ec25537c4f8f6f2e30211cb0925e53a0c03f92739391f6ff09fa51b3e87",
-      "size": 10302
+      "size": 10302,
+      "sha256": "f1413ec25537c4f8f6f2e30211cb0925e53a0c03f92739391f6ff09fa51b3e87"
     },
     {
       "path": "src/natureai_next/infrastructure/database/exporting.py",
-      "sha256": "d84ab241845269167a0a5f0b86d03cccf7a20b27ba3e219b8ce022d681385131",
-      "size": 6290
+      "size": 6290,
+      "sha256": "d84ab241845269167a0a5f0b86d03cccf7a20b27ba3e219b8ce022d681385131"
     },
     {
       "path": "src/natureai_next/infrastructure/database/integrity.py",
-      "sha256": "ffb828cb2493a8079479ce116a13ff344206e0a0b49107bfe2e1868336496b19",
-      "size": 848
+      "size": 848,
+      "sha256": "ffb828cb2493a8079479ce116a13ff344206e0a0b49107bfe2e1868336496b19"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/__init__.py",
-      "sha256": "52fd9608fa145db2c55ebd37687bd4ae8ada51e46f5a42df14d09f9a087dc7f6",
-      "size": 1821
+      "size": 2467,
+      "sha256": "fb45f226d25818e6d1b44973cb7a37eff65fd51dfadfb5782f4d12cd7656543f"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/core.py",
-      "sha256": "ecaa7bf7c45ad7dd711d18db45b06d6418656fb4af8b77f5bd782413e226f894",
-      "size": 2053
+      "size": 2053,
+      "sha256": "ecaa7bf7c45ad7dd711d18db45b06d6418656fb4af8b77f5bd782413e226f894"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v001_initial.py",
-      "sha256": "21c0cb3ce8846139928e9a1db1228a208d2ce129a00641236444394f175c8658",
-      "size": 14716
+      "size": 14716,
+      "sha256": "21c0cb3ce8846139928e9a1db1228a208d2ce129a00641236444394f175c8658"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v002_jobs_media.py",
-      "sha256": "c25af936fd784759b0a0996c1ffd9b924ec0fda385e0a1abb4368281c61ef49a",
-      "size": 1752
+      "size": 1752,
+      "sha256": "c25af936fd784759b0a0996c1ffd9b924ec0fda385e0a1abb4368281c61ef49a"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v003_import_catalog.py",
-      "sha256": "832697b4104675efe17cf0189d88966838a1b90f880f39563a9d99d81052f3f9",
-      "size": 2115
+      "size": 2115,
+      "sha256": "832697b4104675efe17cf0189d88966838a1b90f880f39563a9d99d81052f3f9"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v004_search_collections_geo.py",
-      "sha256": "c6b5f1a7ded33412fb0c809077a6e3824e6f4344857d317d335319a23f5952e9",
-      "size": 2580
+      "size": 2580,
+      "sha256": "c6b5f1a7ded33412fb0c809077a6e3824e6f4344857d317d335319a23f5952e9"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v005_taxonomy.py",
-      "sha256": "0e41ba0fa8951ba28f9ffa6d00d5ef98c70719e65900c1264c62ee430d4f2e6b",
-      "size": 1390
+      "size": 1390,
+      "sha256": "0e41ba0fa8951ba28f9ffa6d00d5ef98c70719e65900c1264c62ee430d4f2e6b"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v006_ai_foundation.py",
-      "sha256": "d96957505533cfdc16d639842718980b1e591ab9f61e43e1016749e5a095ba2a",
-      "size": 2308
+      "size": 2308,
+      "sha256": "d96957505533cfdc16d639842718980b1e591ab9f61e43e1016749e5a095ba2a"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v007_ai_runtime.py",
-      "sha256": "32efdb175ae029a8328bdb374b235f55f2e7c928f097c240bf6476fe7360b4f1",
-      "size": 2084
+      "size": 2084,
+      "sha256": "32efdb175ae029a8328bdb374b235f55f2e7c928f097c240bf6476fe7360b4f1"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v008_ai_review.py",
-      "sha256": "9df82c2215949490ef768d1522aea5959e03af493f5e5c1d294966fd2019a7fc",
-      "size": 3734
+      "size": 3734,
+      "sha256": "9df82c2215949490ef768d1522aea5959e03af493f5e5c1d294966fd2019a7fc"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v009_ai_generation.py",
-      "sha256": "47d93efa0647c84306e7affe658f4ddfc86f29caa639326fbcf0f4b4453ce81d",
-      "size": 2366
+      "size": 2366,
+      "sha256": "47d93efa0647c84306e7affe658f4ddfc86f29caa639326fbcf0f4b4453ce81d"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v010_taxonomy_embedding_lifecycle.py",
-      "sha256": "49911ad027ca4020e1a13ea54989f0b4a3b30fca892df70f4794231f74bf4cbb",
-      "size": 582
+      "size": 582,
+      "sha256": "49911ad027ca4020e1a13ea54989f0b4a3b30fca892df70f4794231f74bf4cbb"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v011_resumable_exports.py",
-      "sha256": "7bd2022352fb2d28c02636df1c8b20ba958623c522a6daee9f2e21fe654e0971",
-      "size": 1734
+      "size": 1734,
+      "sha256": "7bd2022352fb2d28c02636df1c8b20ba958623c522a6daee9f2e21fe654e0971"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v012_resumable_derivative_exports.py",
-      "sha256": "e3976b4c1762d2c18ed852ed61f0fe7622b6c31478427e25f22a1631c7dfbec0",
-      "size": 3114
+      "size": 3114,
+      "sha256": "e3976b4c1762d2c18ed852ed61f0fe7622b6c31478427e25f22a1631c7dfbec0"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v013_regional_knowledge.py",
-      "sha256": "986ddd16e393aa09d6d4d5979dc1aca83364e5947f1154faf15853b358604b75",
-      "size": 875
+      "size": 875,
+      "sha256": "986ddd16e393aa09d6d4d5979dc1aca83364e5947f1154faf15853b358604b75"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v014_observation_intelligence.py",
-      "sha256": "c0429012628ec3da1f071d10b675c9bed17eed3b56afbf0e67d33751f85bcaa6",
-      "size": 1052
+      "size": 1052,
+      "sha256": "c0429012628ec3da1f071d10b675c9bed17eed3b56afbf0e67d33751f85bcaa6"
     },
     {
       "path": "src/natureai_next/infrastructure/database/migrations/v015_ecological_context.py",
-      "sha256": "53c7a16e9e0588456f25c4160b3b3891151d41096111fa4394aeeec9fd1538e7",
-      "size": 606
+      "size": 606,
+      "sha256": "53c7a16e9e0588456f25c4160b3b3891151d41096111fa4394aeeec9fd1538e7"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/migrations/v016_import_provenance.py",
+      "size": 1624,
+      "sha256": "4557309ec81114bc95521b6c1e5fd065212b37afbca9467d1cb7d7e84819bb95"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/migrations/v017_observation_context.py",
+      "size": 1006,
+      "sha256": "2d2d7a0c9b628cfe5ec9afae54105fecffa658a6b3f0bd78305af02683ef281d"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/migrations/v018_spatial_longitudinal.py",
+      "size": 6050,
+      "sha256": "a8c8f237f0b494f02b302a16dd3c847f33d8b704ba6b95ba10e7b74bdb09c0b0"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/migrations/v019_temporal_movement.py",
+      "size": 2907,
+      "sha256": "6b039affbbeae57dd32acf4e87362b88895bc5dff61a5ff39bd73943a5f3e243"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/migrations/v020_asset_analyses.py",
+      "size": 3645,
+      "sha256": "c43149fff166e038eff35e940432174d9cdc9ff7d09c56d23b99fe56504a7452"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/migrations/v021_asset_removal.py",
+      "size": 976,
+      "sha256": "9c09299e69760054576e727b9ae37359424f2637f75de34eb1f2a2f7fc1d5881"
     },
     {
       "path": "src/natureai_next/infrastructure/database/observation_intelligence.py",
-      "sha256": "43deab3550fc65698bcbeb9ba778eb61adc7c91528560cde9c59fab52d55c31f",
-      "size": 16169
+      "size": 18450,
+      "sha256": "bed4ee060076b3ffb1c4576bcc39ec1b09ae574b016309a5d16d2a2fc827a372"
     },
     {
       "path": "src/natureai_next/infrastructure/database/regional.py",
-      "sha256": "8c969cbb04f6599dd997c875094393761c0e3cf0d6b2863ede51ab9d40a28fa6",
-      "size": 3869
+      "size": 3869,
+      "sha256": "8c969cbb04f6599dd997c875094393761c0e3cf0d6b2863ede51ab9d40a28fa6"
     },
     {
       "path": "src/natureai_next/infrastructure/database/repositories.py",
-      "sha256": "6f6bda3701813078c736c821a6236257f02b8ecd645699d27b382de1c063b5e1",
-      "size": 13182
+      "size": 13182,
+      "sha256": "6f6bda3701813078c736c821a6236257f02b8ecd645699d27b382de1c063b5e1"
     },
     {
       "path": "src/natureai_next/infrastructure/database/restore.py",
-      "sha256": "8446249eabaabbea9c8daa8410d0d8af8da53449e9f274b7d002734e5cc369b4",
-      "size": 1905
+      "size": 1905,
+      "sha256": "8446249eabaabbea9c8daa8410d0d8af8da53449e9f274b7d002734e5cc369b4"
     },
     {
       "path": "src/natureai_next/infrastructure/database/search.py",
-      "sha256": "f4e5c59b85a1145fdfe85033cf4784552cc2775b030595f785c3390f0f2e1527",
-      "size": 18982
+      "size": 18982,
+      "sha256": "f4e5c59b85a1145fdfe85033cf4784552cc2775b030595f785c3390f0f2e1527"
     },
     {
       "path": "src/natureai_next/infrastructure/database/settings.py",
-      "sha256": "0266f784ae682ef1b5cf3fe7ea05d8a0b3472236f41cc9b40bad9268b19f68c1",
-      "size": 629
+      "size": 629,
+      "sha256": "0266f784ae682ef1b5cf3fe7ea05d8a0b3472236f41cc9b40bad9268b19f68c1"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/database/spatial_intelligence.py",
+      "size": 12716,
+      "sha256": "72a5754d710933ea8e0cb2a59909bfc66a757e592b02413eaba058b33ccf6b2a"
     },
     {
       "path": "src/natureai_next/infrastructure/database/taxonomy.py",
-      "sha256": "520ae037a37e1dc78d3e6452b5947355bf44bceca22925c16cbbdd5ce04e06a7",
-      "size": 17035
+      "size": 22886,
+      "sha256": "14c2e1058409a0e0ec06a54c70ad9c05aba89d0ab37a57a13cc2663a8556a04c"
     },
     {
       "path": "src/natureai_next/infrastructure/database/unit_of_work.py",
-      "sha256": "634f20384d9d4b11cac720b0c4265d7e84c9d1ad59e90bd576ee63db94972d12",
-      "size": 1911
+      "size": 1911,
+      "sha256": "634f20384d9d4b11cac720b0c4265d7e84c9d1ad59e90bd576ee63db94972d12"
     },
     {
       "path": "src/natureai_next/infrastructure/diagnostics/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/infrastructure/diagnostics/logging.py",
-      "sha256": "83289308592dd75c29eeb1013f08e99d4a0db3d7be86260327429201dbfccbc0",
-      "size": 3054
+      "size": 3054,
+      "sha256": "83289308592dd75c29eeb1013f08e99d4a0db3d7be86260327429201dbfccbc0"
     },
     {
       "path": "src/natureai_next/infrastructure/diagnostics/system_services.py",
-      "sha256": "0cd396f3c748706548c0752cf1e1c58622bac009cf9356d98dacd6664758e756",
-      "size": 453
+      "size": 453,
+      "sha256": "0cd396f3c748706548c0752cf1e1c58622bac009cf9356d98dacd6664758e756"
     },
     {
       "path": "src/natureai_next/infrastructure/exporting/__init__.py",
-      "sha256": "8e3f9e4d4241fe2b7d7681fe365db2271f237ea0863a2eb232f19cb7d8561b89",
-      "size": 29
+      "size": 29,
+      "sha256": "8e3f9e4d4241fe2b7d7681fe365db2271f237ea0863a2eb232f19cb7d8561b89"
     },
     {
       "path": "src/natureai_next/infrastructure/exporting/derivatives.py",
-      "sha256": "d8a0016f742b871ecacd77183972619d49151ffab66ae8e11180c39a7fb06264",
-      "size": 18989
+      "size": 18989,
+      "sha256": "d8a0016f742b871ecacd77183972619d49151ffab66ae8e11180c39a7fb06264"
     },
     {
       "path": "src/natureai_next/infrastructure/exporting/files.py",
-      "sha256": "d4e5a8f580c7ce3e6014c4f28c9941172a2909cd6d48a77c5458574ea5dc0bec",
-      "size": 12618
+      "size": 12618,
+      "sha256": "d4e5a8f580c7ce3e6014c4f28c9941172a2909cd6d48a77c5458574ea5dc0bec"
     },
     {
       "path": "src/natureai_next/infrastructure/exporting/metadata.py",
-      "sha256": "19da742d7806dd9c34a7fa6a6d461aea4a7569e613f0470138149350fdca73ec",
-      "size": 2685
+      "size": 2685,
+      "sha256": "19da742d7806dd9c34a7fa6a6d461aea4a7569e613f0470138149350fdca73ec"
     },
     {
       "path": "src/natureai_next/infrastructure/filesystem/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/infrastructure/filesystem/atomic.py",
-      "sha256": "8f6d9dd40bfe14b9769b48cf519a91821d24030551ab2658f42e4cfc322def9a",
-      "size": 1003
+      "size": 1003,
+      "sha256": "8f6d9dd40bfe14b9769b48cf519a91821d24030551ab2658f42e4cfc322def9a"
     },
     {
       "path": "src/natureai_next/infrastructure/filesystem/configuration_store.py",
-      "sha256": "87babaf7acc5c829f0a672ebb84e4fb0ee050f05731c1982f5c00fc7e44b13fc",
-      "size": 3456
+      "size": 3456,
+      "sha256": "87babaf7acc5c829f0a672ebb84e4fb0ee050f05731c1982f5c00fc7e44b13fc"
     },
     {
       "path": "src/natureai_next/infrastructure/filesystem/importing.py",
-      "sha256": "bbbefe6a64a4b0a1e00e30537f049a585575c135f6d1839dac52af68cb251c45",
-      "size": 4556
+      "size": 4556,
+      "sha256": "bbbefe6a64a4b0a1e00e30537f049a585575c135f6d1839dac52af68cb251c45"
     },
     {
       "path": "src/natureai_next/infrastructure/filesystem/library_lock.py",
-      "sha256": "c9cf00519eee39b13432ed2f3a596c533bd54743335698beacfe41adf3795714",
-      "size": 4074
+      "size": 4074,
+      "sha256": "c9cf00519eee39b13432ed2f3a596c533bd54743335698beacfe41adf3795714"
     },
     {
       "path": "src/natureai_next/infrastructure/filesystem/library_manifest.py",
-      "sha256": "d4e75e54a251372aaa393322f9c7fdc7e7edb63301846e65737e4a2fe518365f",
-      "size": 4830
+      "size": 4830,
+      "sha256": "d4e75e54a251372aaa393322f9c7fdc7e7edb63301846e65737e4a2fe518365f"
     },
     {
       "path": "src/natureai_next/infrastructure/filesystem/toml_codec.py",
-      "sha256": "26580680a805888eed5edcd9ac5e4d7c4bf6c3b992c0b345c9255a7637673054",
-      "size": 1961
+      "size": 1961,
+      "sha256": "26580680a805888eed5edcd9ac5e4d7c4bf6c3b992c0b345c9255a7637673054"
     },
     {
       "path": "src/natureai_next/infrastructure/imaging/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/infrastructure/imaging/cache.py",
-      "sha256": "bbb03e535a68073d7c66db8500b7b8ced9f09c9273dc324ae737080a03bb821e",
-      "size": 3594
+      "size": 3594,
+      "sha256": "bbb03e535a68073d7c66db8500b7b8ced9f09c9273dc324ae737080a03bb821e"
     },
     {
       "path": "src/natureai_next/infrastructure/imaging/catalog_thumbnails.py",
-      "sha256": "0c2b7af7068d641742433f1d896832dffa27f67366aa14ef5b0fd13e8d6a8d08",
-      "size": 4725
+      "size": 4725,
+      "sha256": "0c2b7af7068d641742433f1d896832dffa27f67366aa14ef5b0fd13e8d6a8d08"
     },
     {
       "path": "src/natureai_next/infrastructure/imaging/pillow_adapter.py",
-      "sha256": "df6cbad115851e4b7e3e0c4a944cbd7a709ae60b464386de042cd45958eb2faf",
-      "size": 2669
+      "size": 2669,
+      "sha256": "df6cbad115851e4b7e3e0c4a944cbd7a709ae60b464386de042cd45958eb2faf"
     },
     {
       "path": "src/natureai_next/infrastructure/indexing/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/infrastructure/indexing/vector.py",
-      "sha256": "4c272436fba39128b82f248d673c8daad77f863caffa3c226f2a6a35b4590f20",
-      "size": 4301
+      "size": 4301,
+      "sha256": "4c272436fba39128b82f248d673c8daad77f863caffa3c226f2a6a35b4590f20"
     },
     {
       "path": "src/natureai_next/infrastructure/metadata/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/infrastructure/metadata/pillow_reader.py",
-      "sha256": "904db84a3b2a5ffdec0f9bd0fb2a5968705cb60485053f3681cbeddbc4439610",
-      "size": 1966
+      "size": 4241,
+      "sha256": "5099695ae9c8fc3e46904f2a5f208b7689dbd57d3108125a3dfba5866b9cb5e0"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/__init__.py",
+      "size": 347,
+      "sha256": "9bbd0cefd79367125ea21bea204a2aebce8fca8a276b1d36bbef3deee4935312"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/maps.py",
+      "size": 19343,
+      "sha256": "3d0607392a9dc4e6cb147546d1d79ab1c63c3c58115e0eb007a72f49724ec4b6"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/migrations/maps_v001_catalog.py",
+      "size": 1489,
+      "sha256": "4d7c81b3869374a08ad99abcaa45202f708c6bfb39d51e44426ee666d321d405"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/migrations/maps_v002_lifecycle.py",
+      "size": 977,
+      "sha256": "4667aed9fe65dbc0339ed88e4d5b01bf68f8e27b236f2c77c6a5c72c3420c20c"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/migrations/maps_v003_osm_lite.py",
+      "size": 571,
+      "sha256": "37f1adaf81b3306f37d8e469eba666424780bd76f3679dd81e3ce6b843506ef4"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/migrations/taxonomy_v001_reference.py",
+      "size": 3018,
+      "sha256": "5e7329c91b19943813838a68edef1fa4798f488e14a03f5d8afbc89701ed225a"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/migrations/taxonomy_v002_library_links.py",
+      "size": 772,
+      "sha256": "5312abff3fe40a3015cc409393ff2c6ddd9caa7c36df2b66a4864b6324faf06f"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/migrations/taxonomy_v003_authoritative_packages.py",
+      "size": 1380,
+      "sha256": "c4dba7c15ff653bc9264a0b9cfe7da289f04e297fc44d0cf0875baab28cb3217"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/migrations/taxonomy_v004_preferences.py",
+      "size": 841,
+      "sha256": "73abdae2d15a87ddf93154c5012b43a8b5144f0bc5fe676c46eefa839d371265"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/registry.py",
+      "size": 5251,
+      "sha256": "ca8cee55fccfd240f2e3465f27bd835a2ce9773361fca8b1fb733c6f999d5333"
+    },
+    {
+      "path": "src/natureai_next/infrastructure/subsystems/taxonomy.py",
+      "size": 19309,
+      "sha256": "81e74ddc0db8ea7b389174915324f396c0f95df61bc5dc23a3f292a00a248fc0"
     },
     {
       "path": "src/natureai_next/infrastructure/taxonomy/__init__.py",
-      "sha256": "ecb39f2655b9be54b1780bd72c6a382f9a955fc94cda085d4ebf52e58ccd516e",
-      "size": 47
+      "size": 47,
+      "sha256": "ecb39f2655b9be54b1780bd72c6a382f9a955fc94cda085d4ebf52e58ccd516e"
     },
     {
       "path": "src/natureai_next/infrastructure/taxonomy/package.py",
-      "sha256": "e798ab779360ff373fa3fac23e7c53bd71fe4d2edf0b88f4acd50114273f3def",
-      "size": 6847
+      "size": 6847,
+      "sha256": "e798ab779360ff373fa3fac23e7c53bd71fe4d2edf0b88f4acd50114273f3def"
     },
     {
       "path": "src/natureai_next/infrastructure/updates/__init__.py",
-      "sha256": "47b390059e203b08276c1a5476d8ceb36040560e5adf1bcaa2cdf1d8b455851c",
-      "size": 204
+      "size": 204,
+      "sha256": "47b390059e203b08276c1a5476d8ceb36040560e5adf1bcaa2cdf1d8b455851c"
     },
     {
       "path": "src/natureai_next/jobs/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/jobs/ai_handlers.py",
-      "sha256": "32f9f6cf83d382b3d8a8291111d25ed255cdb6ffd08b044dfcb46e4e0b6d8df8",
-      "size": 6771
+      "size": 6771,
+      "sha256": "32f9f6cf83d382b3d8a8291111d25ed255cdb6ffd08b044dfcb46e4e0b6d8df8"
     },
     {
       "path": "src/natureai_next/jobs/engine.py",
-      "sha256": "e13a0b66fcb661daca4a85233c1b25bf029d735aaccee93b1e2cae020051e56b",
-      "size": 4881
+      "size": 5145,
+      "sha256": "1b819555c0a0a70066f35f34b89e64dacc028eb84256277636b90b99a128e667"
     },
     {
       "path": "src/natureai_next/jobs/export_handlers.py",
-      "sha256": "926cec56e8e02d6a12484c25ef9fbebdcef328e6cf2c2d6be3ad3e304a583614",
-      "size": 7322
+      "size": 7322,
+      "sha256": "926cec56e8e02d6a12484c25ef9fbebdcef328e6cf2c2d6be3ad3e304a583614"
     },
     {
       "path": "src/natureai_next/jobs/media_handlers.py",
-      "sha256": "ca42c044458ddb310ee9b5abebec2b2bc0c2a245b6285d0dbb359c1db4697261",
-      "size": 1673
+      "size": 1673,
+      "sha256": "ca42c044458ddb310ee9b5abebec2b2bc0c2a245b6285d0dbb359c1db4697261"
     },
     {
       "path": "src/natureai_next/plugin_api/__init__.py",
-      "sha256": "a07e544cdf263c270e3284ffae0e85c8f3a4412ed5841abce0f69c688f2c5497",
-      "size": 706
+      "size": 706,
+      "sha256": "a07e544cdf263c270e3284ffae0e85c8f3a4412ed5841abce0f69c688f2c5497"
     },
     {
       "path": "src/natureai_next/plugin_api/models.py",
-      "sha256": "8131aa5af60953e0fd689bdf803b996a1db801708d45c4b7a566d1f8ea928547",
-      "size": 1539
+      "size": 1539,
+      "sha256": "8131aa5af60953e0fd689bdf803b996a1db801708d45c4b7a566d1f8ea928547"
     },
     {
       "path": "src/natureai_next/plugin_api/protocols.py",
-      "sha256": "ecee2abea7ff97e3ff3d592f6b13bd28aab3c3ff95f1aa18e6dc4334506a5f6b",
-      "size": 1261
+      "size": 1261,
+      "sha256": "ecee2abea7ff97e3ff3d592f6b13bd28aab3c3ff95f1aa18e6dc4334506a5f6b"
     },
     {
       "path": "src/natureai_next/plugin_api/testing.py",
-      "sha256": "6eb10a10df8c15a6f6ff28e223d3e24b54df1475b51144a6bfcb19a9b64ea06a",
-      "size": 1756
+      "size": 1756,
+      "sha256": "6eb10a10df8c15a6f6ff28e223d3e24b54df1475b51144a6bfcb19a9b64ea06a"
     },
     {
       "path": "src/natureai_next/plugin_api/version.py",
-      "sha256": "272dfff1fd03e9c3bfef4295c1b1044d25323b97bddafde9585050f2fa3efb93",
-      "size": 72
+      "size": 72,
+      "sha256": "272dfff1fd03e9c3bfef4295c1b1044d25323b97bddafde9585050f2fa3efb93"
     },
     {
       "path": "src/natureai_next/plugins/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/plugins/manifest.py",
-      "sha256": "98f027882d010aa8348ceb0377ff4a10dd138bbfe316ee6ca87a2840ee916638",
-      "size": 3930
+      "size": 3930,
+      "sha256": "98f027882d010aa8348ceb0377ff4a10dd138bbfe316ee6ca87a2840ee916638"
     },
     {
       "path": "src/natureai_next/plugins/registry.py",
-      "sha256": "271eba0a09eebbf389ebcf033761b7ce1143886e685fe11d70c03a2ad471dee5",
-      "size": 1920
+      "size": 1920,
+      "sha256": "271eba0a09eebbf389ebcf033761b7ce1143886e685fe11d70c03a2ad471dee5"
     },
     {
       "path": "src/natureai_next/ports/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/ports/ai.py",
-      "sha256": "2125dac84d3b22cba5d061661737d13d32d61b48366fa52af9a27ef5eaf5e39a",
-      "size": 1136
+      "size": 1136,
+      "sha256": "2125dac84d3b22cba5d061661737d13d32d61b48366fa52af9a27ef5eaf5e39a"
     },
     {
       "path": "src/natureai_next/ports/ai_review.py",
-      "sha256": "ed1c8448047f2d79753ee4a7f6eaff6f86eece799eaec94fbf975ff14855018a",
-      "size": 3781
+      "size": 3781,
+      "sha256": "ed1c8448047f2d79753ee4a7f6eaff6f86eece799eaec94fbf975ff14855018a"
     },
     {
       "path": "src/natureai_next/ports/catalog_queries.py",
-      "sha256": "fbfe35b8ca636c89782170c289ae2813ec90c6a016744a251ddcf14942321cf4",
-      "size": 2339
+      "size": 2339,
+      "sha256": "fbfe35b8ca636c89782170c289ae2813ec90c6a016744a251ddcf14942321cf4"
     },
     {
       "path": "src/natureai_next/ports/clock.py",
-      "sha256": "d5938b10ab8aaa2f4d388bf7f407a18f39a7907f8acc9693ed583bed1c195a55",
-      "size": 270
+      "size": 270,
+      "sha256": "d5938b10ab8aaa2f4d388bf7f407a18f39a7907f8acc9693ed583bed1c195a55"
     },
     {
       "path": "src/natureai_next/ports/exporting.py",
-      "sha256": "d32abff1529e06599438dd6e2b2adcbe638fedfdf2e812faa92ffdf494179a6e",
-      "size": 5464
+      "size": 5464,
+      "sha256": "d32abff1529e06599438dd6e2b2adcbe638fedfdf2e812faa92ffdf494179a6e"
     },
     {
       "path": "src/natureai_next/ports/identity.py",
-      "sha256": "fb701b04eed14e6f64eeb8df844d4d8333c5b0a47fe0e16d8280a70efd887057",
-      "size": 224
+      "size": 224,
+      "sha256": "fb701b04eed14e6f64eeb8df844d4d8333c5b0a47fe0e16d8280a70efd887057"
     },
     {
       "path": "src/natureai_next/ports/importing.py",
-      "sha256": "101964d2beb8fcf20425f9227a1369b8c297b9fc6d93d63ffc0e952253174475",
-      "size": 740
+      "size": 740,
+      "sha256": "101964d2beb8fcf20425f9227a1369b8c297b9fc6d93d63ffc0e952253174475"
     },
     {
       "path": "src/natureai_next/ports/jobs.py",
-      "sha256": "bb41ba4e14c5206ffddb13e5416c1d77e814318f81630b0fbf5d194c68eb4da8",
-      "size": 588
+      "size": 588,
+      "sha256": "bb41ba4e14c5206ffddb13e5416c1d77e814318f81630b0fbf5d194c68eb4da8"
     },
     {
       "path": "src/natureai_next/ports/media.py",
-      "sha256": "9dce50419f84aa96b8b564ce4a9755fc76b214b95a3f8c4d8314d2d67f70cd2c",
-      "size": 1091
+      "size": 1091,
+      "sha256": "9dce50419f84aa96b8b564ce4a9755fc76b214b95a3f8c4d8314d2d67f70cd2c"
     },
     {
       "path": "src/natureai_next/ports/persistence.py",
-      "sha256": "f36c198584ada085d6f3f040eaec85dced6557e68721f09990af6a05f9cf7c89",
-      "size": 1788
+      "size": 1788,
+      "sha256": "f36c198584ada085d6f3f040eaec85dced6557e68721f09990af6a05f9cf7c89"
     },
     {
       "path": "src/natureai_next/ports/search.py",
-      "sha256": "b8874bf289fa0af9dbeea28d91aef4021171d92a4c219f4f74542a5c1f77d1a5",
-      "size": 2820
+      "size": 2820,
+      "sha256": "b8874bf289fa0af9dbeea28d91aef4021171d92a4c219f4f74542a5c1f77d1a5"
     },
     {
       "path": "src/natureai_next/ports/taxonomy.py",
-      "sha256": "ed929e2f1da17f8770a9b2534b1be749cdcc53bb40eecbcddc76c53b70377fe0",
-      "size": 1815
+      "size": 1815,
+      "sha256": "ed929e2f1da17f8770a9b2534b1be749cdcc53bb40eecbcddc76c53b70377fe0"
     },
     {
       "path": "src/natureai_next/resources/aperture-backup-recovery.ico",
-      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b",
-      "size": 4154
+      "size": 4154,
+      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b"
     },
     {
       "path": "src/natureai_next/resources/aperture.ico",
-      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b",
-      "size": 4154
+      "size": 4154,
+      "sha256": "ff95b4f2d5a4713b879a4dbce9e2d47516db4295930418b352f3d64aed50f71b"
+    },
+    {
+      "path": "src/natureai_next/resources/help/AI.md",
+      "size": 16084,
+      "sha256": "0cbcff7d1a1ec6f1a4c8c8c811eaace922a2f7751a273552f37160bcd7325f59"
+    },
+    {
+      "path": "src/natureai_next/resources/help/ARCHITECTURE.md",
+      "size": 14786,
+      "sha256": "18d832d67679fce15b680fe94b74ab609974e814790f6399e795ca69089317ae"
+    },
+    {
+      "path": "src/natureai_next/resources/help/ARCHITECTURE_DECISIONS.md",
+      "size": 24771,
+      "sha256": "469be58cf6186531228600871a43f1eb916a8b30607f27872e648e8ae8729009"
+    },
+    {
+      "path": "src/natureai_next/resources/help/BACKLOG.md",
+      "size": 4057,
+      "sha256": "f5cba62c0e49a6e793f30283a3b56a3e58d98ed5e222775570c9138f50f05124"
+    },
+    {
+      "path": "src/natureai_next/resources/help/CHANGELOG.md",
+      "size": 47478,
+      "sha256": "2ac1fc7097ce5278770a1f1dfa0378663152e1e23ff99f77b1b162f0a754d40a"
+    },
+    {
+      "path": "src/natureai_next/resources/help/CODING_STANDARD.md",
+      "size": 25266,
+      "sha256": "53162de3811e17a4bef568f3d2dede9d4f75b5cf6a5dc54e97912bd4d51da560"
+    },
+    {
+      "path": "src/natureai_next/resources/help/CONFIGURATION.md",
+      "size": 9820,
+      "sha256": "63d4c2c91000b28d973778d3b89ecd3231044c62938e416d3d19a4447d2f5866"
+    },
+    {
+      "path": "src/natureai_next/resources/help/DATABASE.md",
+      "size": 24995,
+      "sha256": "75fb31c9d9d32a4c29877bd27580f7272cf587b84d1a52123bc89a76fd41a81e"
+    },
+    {
+      "path": "src/natureai_next/resources/help/GUI.md",
+      "size": 21167,
+      "sha256": "14014c98f77d2662892cf6cc186abcca198d1ecb7df141e6a6f5f176aed2b1c2"
+    },
+    {
+      "path": "src/natureai_next/resources/help/INSTALLATION.md",
+      "size": 16548,
+      "sha256": "19152f92e004a1918beec1cb57df028b4fea41aaf284ee5671a9b97a5cbb8fbc"
+    },
+    {
+      "path": "src/natureai_next/resources/help/PHILOSOPHY.md",
+      "size": 1810,
+      "sha256": "1311de59387f8324f6fa42bfda818458a78ac3497700f4219d6a61bb7f71471a"
+    },
+    {
+      "path": "src/natureai_next/resources/help/PLUGIN_API.md",
+      "size": 9376,
+      "sha256": "7dbf274e93b2023f4fc9188b16ab1d0e73165a71bd24dcd60ab4f5dac97e7f1c"
     },
     {
       "path": "src/natureai_next/resources/help/PROJECT_HANDOVER.md",
-      "sha256": "e1a2c5f9c350514c0fad027890613602b181f58c096958543f2e1197012eb539",
-      "size": 2845
+      "size": 2860,
+      "sha256": "be0431036faeadb02e247e99aa999b213b4617f33690f53f5b00111d037521f0"
+    },
+    {
+      "path": "src/natureai_next/resources/help/PROJECT_SPEC.md",
+      "size": 34919,
+      "sha256": "c4c09ef9b2b40112b9e1a4cde800ff3c0a9b16d6526ff99c9bfd941df5f69522"
+    },
+    {
+      "path": "src/natureai_next/resources/help/QUICKSTART_WINDOWS.md",
+      "size": 3723,
+      "sha256": "e364763c718cd69537d5a89bd8a4675c8288d9b313bdf24a19e265b45e78cdd7"
     },
     {
       "path": "src/natureai_next/resources/help/README.md",
-      "sha256": "42b925a5a78a5378c593d5e5fa25c0fcf210018a467b64f4ff85b293127aaa44",
-      "size": 1632
+      "size": 1777,
+      "sha256": "a5b83204a4ba053a1731aa2e35b3592aeb8cb60d484c8ac6dee3a36775400eab"
     },
     {
       "path": "src/natureai_next/resources/help/RELEASE_NOTES.md",
-      "sha256": "e877e5955948345d777136141f3e2b61a1f9cecccb448ac92070d62b2b5d5586",
-      "size": 8919
+      "size": 1461,
+      "sha256": "8d10d9248701faf6609a0647c6706409f12deed1ab4814b55914275da9765e08"
     },
     {
       "path": "src/natureai_next/resources/help/ROADMAP.md",
-      "sha256": "eb1ab4f009098ad6d5a4121265efc3a28dca1034efdc9814f734bf2aaa89c693",
-      "size": 7274
+      "size": 8002,
+      "sha256": "0d37f3fbe2be8bb387ba24dcd84d5b9bd3a87d84d37f814ed8749af7b99f0669"
+    },
+    {
+      "path": "src/natureai_next/resources/help/VERSION2_DEVELOPMENT_CHARTER.md",
+      "size": 5886,
+      "sha256": "e5b7c80211b04934540073fe21a2a9ee408c935b55492f083012e3a1a049d698"
+    },
+    {
+      "path": "src/natureai_next/resources/help/VISION.md",
+      "size": 5212,
+      "sha256": "e2808a456dbb8ff5b8446cf77cdbf5f24b930f154e8788494695de2e6eada70f"
     },
     {
       "path": "src/natureai_next/resources/help/accessibility/ACCESSIBILITY_AND_KEYBOARD.md",
-      "sha256": "7fc50d9b20686ea36076331ed93a64c6a59aab400741ce6b03c977cdf6b37d0e",
-      "size": 2014
+      "size": 2014,
+      "sha256": "7fc50d9b20686ea36076331ed93a64c6a59aab400741ce6b03c977cdf6b37d0e"
     },
     {
       "path": "src/natureai_next/resources/help/developer/README.md",
-      "sha256": "ae54f81d18621c806384987e7ff7209e6dfcfed7e104dd1b6806bd78dd3d3d27",
-      "size": 1134
+      "size": 1309,
+      "sha256": "8b445faa2e11c836becc054c3b64a8834b23ae8bb3284a4f6cccff46dbd31257"
     },
     {
       "path": "src/natureai_next/resources/help/developer/build-windows-installer.md",
-      "sha256": "e592bfcf8ca51dddc3b860b1710375624dae37c08602ed4e27e69888c593941c",
-      "size": 1702
+      "size": 1702,
+      "sha256": "e592bfcf8ca51dddc3b860b1710375624dae37c08602ed4e27e69888c593941c"
+    },
+    {
+      "path": "src/natureai_next/resources/help/developer/offline-map-packages.md",
+      "size": 1717,
+      "sha256": "c09a6727d3d3c1b88bc7b28db05a64b72a0db5eb8d70d02ccf2e8a7752f3d3af"
     },
     {
       "path": "src/natureai_next/resources/help/developer/release-process.md",
-      "sha256": "258433dc9a008ce5eb6c49a09a1893997d80b5af553409340c61a5b636caae4a",
-      "size": 724
+      "size": 724,
+      "sha256": "258433dc9a008ce5eb6c49a09a1893997d80b5af553409340c61a5b636caae4a"
     },
     {
       "path": "src/natureai_next/resources/help/getting-started/installation.md",
-      "sha256": "01938dcd461358cacfa2e18701ed394df29b74b0d1d43cad32f1652f16b8441e",
-      "size": 4624
+      "size": 4624,
+      "sha256": "01938dcd461358cacfa2e18701ed394df29b74b0d1d43cad32f1652f16b8441e"
     },
     {
       "path": "src/natureai_next/resources/help/getting-started/quick-start.md",
-      "sha256": "24a4f449e2f5de00525a191c2901b7cf7e8ddd56fb8639732875ad08116d60e7",
-      "size": 908
+      "size": 908,
+      "sha256": "24a4f449e2f5de00525a191c2901b7cf7e8ddd56fb8639732875ad08116d60e7"
     },
     {
       "path": "src/natureai_next/resources/help/operations/backup-recovery.md",
-      "sha256": "d4742f8def259c4c760e9c319ced2b1722fb8afd0aa0c4c794358ee68ff6dcb2",
-      "size": 1823
+      "size": 1823,
+      "sha256": "d4742f8def259c4c760e9c319ced2b1722fb8afd0aa0c4c794358ee68ff6dcb2"
     },
     {
       "path": "src/natureai_next/resources/help/operations/deployment-and-upgrades.md",
-      "sha256": "29a6ccb16fbc6c76b40828a044efcc76377f390412ebac993dc26e5a4e9e083f",
-      "size": 1675
+      "size": 1675,
+      "sha256": "29a6ccb16fbc6c76b40828a044efcc76377f390412ebac993dc26e5a4e9e083f"
     },
     {
       "path": "src/natureai_next/resources/help/operations/health-center.md",
-      "sha256": "f0626a1027573a671c0efe9e668751cfbeb4a975fd34669ebf967c0d84043c02",
-      "size": 2041
+      "size": 2041,
+      "sha256": "f0626a1027573a671c0efe9e668751cfbeb4a975fd34669ebf967c0d84043c02"
     },
     {
       "path": "src/natureai_next/resources/help/operations/maintenance-center.md",
-      "sha256": "94df35c8d4a407a6a99280fc5fcfedc3d0f23976e8cc1517357b46e440a26a20",
-      "size": 1412
+      "size": 2420,
+      "sha256": "be601c2b5e394a22b1c9415c7719ca6388a435371c108a7eaa2f8d7c8d4c5747"
     },
     {
       "path": "src/natureai_next/resources/help/operations/offline-updates.md",
-      "sha256": "0535eb860e3bc91cdbf0aacfe3202de63f45fb38c90218c4bf329f19f1efdd14",
-      "size": 2350
+      "size": 2350,
+      "sha256": "0535eb860e3bc91cdbf0aacfe3202de63f45fb38c90218c4bf329f19f1efdd14"
     },
     {
       "path": "src/natureai_next/resources/help/operations/release-readiness-qa.md",
-      "sha256": "ca9306438a4621c19ac2bb291845162b4af6c6534c64596a9d49e721619556ee",
-      "size": 2919
+      "size": 2919,
+      "sha256": "ca9306438a4621c19ac2bb291845162b4af6c6534c64596a9d49e721619556ee"
     },
     {
       "path": "src/natureai_next/resources/help/operations/startup-performance.md",
-      "sha256": "dee26059373c666b0fc8f3e47faee6af761e5bd6bd5c95823eebb5f79fc0609f",
-      "size": 957
+      "size": 957,
+      "sha256": "dee26059373c666b0fc8f3e47faee6af761e5bd6bd5c95823eebb5f79fc0609f"
     },
     {
       "path": "src/natureai_next/resources/help/operations/troubleshooting.md",
-      "sha256": "5a23cd7460b1209ed1bb65a1b0ece66989c1114e97d9d62367f4cd23afccb1b8",
-      "size": 1158
+      "size": 1158,
+      "sha256": "5a23cd7460b1209ed1bb65a1b0ece66989c1114e97d9d62367f4cd23afccb1b8"
     },
     {
       "path": "src/natureai_next/resources/help/operations/update-index.example.json",
-      "sha256": "651fbad7eab51101a6790216be65544782950e189ddba6e19bf97603b0382e14",
-      "size": 342
+      "size": 342,
+      "sha256": "651fbad7eab51101a6790216be65544782950e189ddba6e19bf97603b0382e14"
     },
     {
       "path": "src/natureai_next/resources/help/user-guide/README.md",
-      "sha256": "ddab2b4968cc9040b18c21154c4a2f7ec8257d3f361cbad5475fabbafa4a6b24",
-      "size": 1296
+      "size": 1446,
+      "sha256": "0d759d2832eeae59bd613300db709d5e69dc4fcd92021fd12dc9a09cfb6bb988"
     },
     {
       "path": "src/natureai_next/resources/help/user-guide/ai-and-resources.md",
-      "sha256": "8bab122e990ffc96ec26416d4d06eadcc251fc47f1ffd2af0a02d0e0d80ce810",
-      "size": 646
+      "size": 1034,
+      "sha256": "00beb594abb9dabca3ca0ac3f04e2bcc08cfc541c17f36e790bc2e76fd80938b"
     },
     {
       "path": "src/natureai_next/resources/help/user-guide/help-system.md",
-      "sha256": "2b9761856d2bde81a1db31d5d99a1d9ca1b669d41ce07d1d6abee0f3d582b4d5",
-      "size": 1163
+      "size": 1362,
+      "sha256": "6f365ecaf440ec464e62cbc094bddb52c47e4878fd185415d6b6264bae01bba7"
     },
     {
       "path": "src/natureai_next/resources/help/user-guide/import-export.md",
-      "sha256": "d00a910ed7ffdac93a507e816389fc23e2cb0244dda363a5572cb9173d1ac63a",
-      "size": 725
+      "size": 725,
+      "sha256": "d00a910ed7ffdac93a507e816389fc23e2cb0244dda363a5572cb9173d1ac63a"
     },
     {
       "path": "src/natureai_next/resources/help/user-guide/native-update-recovery.md",
-      "sha256": "846159169bb470e914de5720e8ac85338e0d66c088cffb01b988a3a79c630bf5",
-      "size": 1281
+      "size": 1281,
+      "sha256": "846159169bb470e914de5720e8ac85338e0d66c088cffb01b988a3a79c630bf5"
+    },
+    {
+      "path": "src/natureai_next/resources/help/user-guide/offline-maps.md",
+      "size": 3749,
+      "sha256": "15391ab033e9528d747005d5e80c26a83e2efcc9d3608c3ceb765826b5ce1493"
     },
     {
       "path": "src/natureai_next/resources/help/user-guide/roadmap.md",
-      "sha256": "eb1ab4f009098ad6d5a4121265efc3a28dca1034efdc9814f734bf2aaa89c693",
-      "size": 7274
+      "size": 7274,
+      "sha256": "eb1ab4f009098ad6d5a4121265efc3a28dca1034efdc9814f734bf2aaa89c693"
     },
     {
       "path": "src/natureai_next/resources/help/user-guide/taxonomy-library.md",
-      "sha256": "b290ba43499ca2d7c4c4cf8ded41975af028d142006915aa3aeb9aa0dd608dfd",
-      "size": 1222
+      "size": 1913,
+      "sha256": "1783ffc0120ad59aa82d0f29f02a28bfabd4ff4aa213290ac96821ed0f0a8aa0"
     },
     {
       "path": "src/natureai_next/shared/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/shared/errors.py",
-      "sha256": "5b49bff5606665d3078286168fd11342b127cf9cab4feb4ecabec9833e09868d",
-      "size": 1605
+      "size": 1605,
+      "sha256": "5b49bff5606665d3078286168fd11342b127cf9cab4feb4ecabec9833e09868d"
     },
     {
       "path": "src/natureai_next/shared/identifiers.py",
-      "sha256": "8c5f450cef9d5dc61188be7caa8129b60df60151a9664bd3af38e1ddb5fad677",
-      "size": 574
+      "size": 574,
+      "sha256": "8c5f450cef9d5dc61188be7caa8129b60df60151a9664bd3af38e1ddb5fad677"
     },
     {
       "path": "src/natureai_next/shared/result.py",
-      "sha256": "e90634c361867cc4a7ef721c72246d9817ced3c8306c3c49fa71489e0b70253a",
-      "size": 818
+      "size": 818,
+      "sha256": "e90634c361867cc4a7ef721c72246d9817ced3c8306c3c49fa71489e0b70253a"
     },
     {
       "path": "src/natureai_next/ui/__init__.py",
-      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855",
-      "size": 29
+      "size": 29,
+      "sha256": "b262f38fad429e760bf17f4137fd8ac9f60da726de232d20d0775307a8acb855"
     },
     {
       "path": "src/natureai_next/ui/presentation/__init__.py",
-      "sha256": "dfbb353cc8e2a826bde45adb2e83a1fa891dbf1f8700d43c3678ff06fc957912",
-      "size": 43
+      "size": 43,
+      "sha256": "dfbb353cc8e2a826bde45adb2e83a1fa891dbf1f8700d43c3678ff06fc957912"
     },
     {
       "path": "src/natureai_next/ui/presentation/ai.py",
-      "sha256": "397e05d885a917912d2d860a9cbc0ddfa7299f35e047a79963e6fbca54f3c87f",
-      "size": 1237
+      "size": 1237,
+      "sha256": "397e05d885a917912d2d860a9cbc0ddfa7299f35e047a79963e6fbca54f3c87f"
     },
     {
       "path": "src/natureai_next/ui/presentation/ai_review.py",
-      "sha256": "d91a78208e185cfd9385f6687b1ecff4c1c42e5e390417a89e02e78661035796",
-      "size": 2986
+      "size": 2986,
+      "sha256": "d91a78208e185cfd9385f6687b1ecff4c1c42e5e390417a89e02e78661035796"
     },
     {
       "path": "src/natureai_next/ui/presentation/commands.py",
-      "sha256": "73ec8227c8efa3ea9e86382afde12b25674aa89a914c51f3188e4ec2579f7055",
-      "size": 1104
+      "size": 1104,
+      "sha256": "73ec8227c8efa3ea9e86382afde12b25674aa89a914c51f3188e4ec2579f7055"
     },
     {
       "path": "src/natureai_next/ui/presentation/inspector.py",
-      "sha256": "b0c597260e8569e87f1c366c0496b60d96618538bf901d3d7490dbbc9b8a0bd8",
-      "size": 3198
+      "size": 3198,
+      "sha256": "b0c597260e8569e87f1c366c0496b60d96618538bf901d3d7490dbbc9b8a0bd8"
     },
     {
       "path": "src/natureai_next/ui/presentation/library.py",
-      "sha256": "6ce66d57b21f836e4c509c5f64144ead57aad2f4d9e56ce782dd6e6986170c1e",
-      "size": 1991
+      "size": 1991,
+      "sha256": "6ce66d57b21f836e4c509c5f64144ead57aad2f4d9e56ce782dd6e6986170c1e"
     },
     {
       "path": "src/natureai_next/ui/presentation/search.py",
-      "sha256": "cd6c530b748a526a72ca55cd43b22a4edd1cd61e6b9150e922561655314114b4",
-      "size": 1745
+      "size": 1745,
+      "sha256": "cd6c530b748a526a72ca55cd43b22a4edd1cd61e6b9150e922561655314114b4"
     },
     {
       "path": "src/natureai_next/ui/presentation/selection.py",
-      "sha256": "a75c6ef24ac5270b953cffd739e84bb9b62a8bdfb2888f2dd2db3abe5801db65",
-      "size": 1607
+      "size": 1607,
+      "sha256": "a75c6ef24ac5270b953cffd739e84bb9b62a8bdfb2888f2dd2db3abe5801db65"
     },
     {
       "path": "src/natureai_next/ui/presentation/session.py",
-      "sha256": "25ae00395d522c2d5e810e3e48f0f29bcb0a5c120a65660f9737c905c361eecb",
-      "size": 1367
+      "size": 1367,
+      "sha256": "25ae00395d522c2d5e810e3e48f0f29bcb0a5c120a65660f9737c905c361eecb"
     },
     {
       "path": "src/natureai_next/ui/presentation/taxonomy.py",
-      "sha256": "7dd5815af11cf236a72ded323c6fef405a61697c954fafb1a286ea6ceff1a85d",
-      "size": 2837
+      "size": 2837,
+      "sha256": "7dd5815af11cf236a72ded323c6fef405a61697c954fafb1a286ea6ceff1a85d"
     },
     {
       "path": "src/natureai_next/ui/presentation/thumbnails.py",
-      "sha256": "4c1b1b83480cafb61271e05497ae423768e1bd1ce213cfa3961994c8c40caf64",
-      "size": 2008
+      "size": 2008,
+      "sha256": "4c1b1b83480cafb61271e05497ae423768e1bd1ce213cfa3961994c8c40caf64"
     },
     {
       "path": "src/natureai_next/ui/presentation/viewer.py",
-      "sha256": "1a453a2e6c8ab1d9611f0954c735bf41586978a15bffd1cf4781b8576f9943b3",
-      "size": 3312
+      "size": 3312,
+      "sha256": "1a453a2e6c8ab1d9611f0954c735bf41586978a15bffd1cf4781b8576f9943b3"
     },
     {
       "path": "src/natureai_next/ui/qt/__init__.py",
-      "sha256": "70aa4201e832ae32150dea06e31b2ec61c2d38c116b2ca913da8d49b4edb2a11",
-      "size": 32
+      "size": 32,
+      "sha256": "70aa4201e832ae32150dea06e31b2ec61c2d38c116b2ca913da8d49b4edb2a11"
     },
     {
       "path": "src/natureai_next/ui/qt/accessibility.py",
-      "sha256": "8087313e9ffc617ea2ef676eaf8b697084566a928acf63c50fceb178a1770e80",
-      "size": 4072
+      "size": 4072,
+      "sha256": "8087313e9ffc617ea2ef676eaf8b697084566a928acf63c50fceb178a1770e80"
     },
     {
       "path": "src/natureai_next/ui/qt/activity.py",
-      "sha256": "64d65813a0a2714c53fabf084dc2179752e36ae27e60707c8240bb7b0f13b159",
-      "size": 13203
+      "size": 16564,
+      "sha256": "68fd047e0b859e542746ad870af4f48cf87c8a80ddbcd64230dd76d7b5212db0"
     },
     {
       "path": "src/natureai_next/ui/qt/ai_resources.py",
-      "sha256": "70fa391b59e1066d27909511d69d7d875e1eafecf1b7274db57027edcce1611d",
-      "size": 5929
+      "size": 5929,
+      "sha256": "70fa391b59e1066d27909511d69d7d875e1eafecf1b7274db57027edcce1611d"
     },
     {
       "path": "src/natureai_next/ui/qt/ai_review.py",
-      "sha256": "7d72476cd13c5a71d5f6c8ae0f3a5da4da1930c0126ba6cf86074d985be453ce",
-      "size": 32798
+      "size": 34242,
+      "sha256": "79a7b248ff2ff57958431aa24233f3416c4514eee1923e332663c79fc1d435e9"
     },
     {
       "path": "src/natureai_next/ui/qt/ai_setup.py",
-      "sha256": "35cf558fd65bb73952aedd4933306a71ab7ccc5a54581f7cdde6a15b864fe4bb",
-      "size": 8880
+      "size": 8880,
+      "sha256": "35cf558fd65bb73952aedd4933306a71ab7ccc5a54581f7cdde6a15b864fe4bb"
     },
     {
       "path": "src/natureai_next/ui/qt/application.py",
-      "sha256": "61b58329d1308a82322d31773cbadba093a46b655f826f3fd9d88e97008111e8",
-      "size": 44345
+      "size": 50400,
+      "sha256": "c784a2a69bb3f1f8cf770d0389f5f778d8214f9f06376976b83a8d9aa4e6d0e2"
     },
     {
       "path": "src/natureai_next/ui/qt/backup_recovery_app.py",
-      "sha256": "430611fd1af267b9547e48c60aea84ec0cb16470dd2c6769d7241ada87d8220f",
-      "size": 137
+      "size": 137,
+      "sha256": "430611fd1af267b9547e48c60aea84ec0cb16470dd2c6769d7241ada87d8220f"
     },
     {
       "path": "src/natureai_next/ui/qt/ecology.py",
-      "sha256": "7b59db59e38e535623db9192892e90625932f1f5cb4c66c1c0a2a34f6d03be08",
-      "size": 4412
+      "size": 4412,
+      "sha256": "7b59db59e38e535623db9192892e90625932f1f5cb4c66c1c0a2a34f6d03be08"
     },
     {
       "path": "src/natureai_next/ui/qt/health.py",
-      "sha256": "f1b9fc0c2be053543ee3287d80c092edd4b771f185d7ce8ee93b337650da4878",
-      "size": 5816
+      "size": 5816,
+      "sha256": "f1b9fc0c2be053543ee3287d80c092edd4b771f185d7ce8ee93b337650da4878"
     },
     {
       "path": "src/natureai_next/ui/qt/help_system.py",
-      "sha256": "8b077a1a35bdb7b5ae0588f229f0c5268fecaa1f0dc937d1b67869b1d433225a",
-      "size": 5624
+      "size": 7880,
+      "sha256": "afccdf1bac878bb2ad654f1bfff1de61d89ab07049da2cdfc5c97c76c91d7566"
     },
     {
       "path": "src/natureai_next/ui/qt/importing.py",
-      "sha256": "1d243ba5b5202fd0e45123fa75fb2220371ab03aa11cb28c336549982ad74a79",
-      "size": 7246
+      "size": 7246,
+      "sha256": "1d243ba5b5202fd0e45123fa75fb2220371ab03aa11cb28c336549982ad74a79"
+    },
+    {
+      "path": "src/natureai_next/ui/qt/knowledge_center.py",
+      "size": 9083,
+      "sha256": "b5296a059ef30401d56bcbd5285b2903f72d7add802dfe55d6da834517edcfee"
     },
     {
       "path": "src/natureai_next/ui/qt/library.py",
-      "sha256": "5db67e0249ac57e021cf1283cf3600d7e96c025b08c3bf11588e4fc5a66aed0a",
-      "size": 55952
+      "size": 64537,
+      "sha256": "54f5fb22b98743597455a6093e5c2755570ab59e57afee5c3e21a244fc0a32a7"
     },
     {
       "path": "src/natureai_next/ui/qt/maintenance_center.py",
-      "sha256": "660b40e12a2b4b52b760ec03c680e912c23ea627d205766ba48dc6a0a6fa6641",
-      "size": 22584
+      "size": 65426,
+      "sha256": "713113d496e2c2a39afe22bc45ff4e67974e66e9b7676f8b564908c0985d80ca"
+    },
+    {
+      "path": "src/natureai_next/ui/qt/maps.py",
+      "size": 14589,
+      "sha256": "308e7bfc2ecd8b69ba279854456db2ebaec528e2c393bc41a81e8f8837b144d5"
     },
     {
       "path": "src/natureai_next/ui/qt/observation_statistics.py",
-      "sha256": "b10d098e686ff16f6c9897a04369ccb765a919755feef103610a7e28e32c31bb",
-      "size": 4052
+      "size": 4052,
+      "sha256": "b10d098e686ff16f6c9897a04369ccb765a919755feef103610a7e28e32c31bb"
     },
     {
       "path": "src/natureai_next/ui/qt/observations.py",
-      "sha256": "e1619a0bf1be7d3aa10971c834f7683ca4d2a8f0a05cfa50e8c011b872f7fe0e",
-      "size": 14808
+      "size": 15778,
+      "sha256": "716b478f5cd8e8556bd9ec94a52dcdd67d90bcd65e5e9a004faf62e46c9e7044"
     },
     {
       "path": "src/natureai_next/ui/qt/product_pages.py",
-      "sha256": "203c6a90bf03f07d15f7480957c9596496298e962c067677b63042e5eb1a7d59",
-      "size": 7602
+      "size": 13055,
+      "sha256": "827890ffb1a2db156fe1f9e285be4aea21c2072d1eaf86f319ff83bb993fcbae"
     },
     {
       "path": "src/natureai_next/ui/qt/regional_setup.py",
-      "sha256": "6501373ad1dd09ef27a3f6bee1a3657186cbdbc2fb59e32980388fc9c729be67",
-      "size": 7639
+      "size": 7639,
+      "sha256": "6501373ad1dd09ef27a3f6bee1a3657186cbdbc2fb59e32980388fc9c729be67"
     },
     {
       "path": "src/natureai_next/ui/qt/settings_pages.py",
-      "sha256": "5236b6190880b7ec2bf785a1c4c47d9120819986b753555d9027f7f522c3f34d",
-      "size": 5405
+      "size": 7826,
+      "sha256": "83607f755d92b0392336a4c92cff966138295b3792bf9d2ec6acaad6a8d2d203"
     },
     {
       "path": "src/natureai_next/ui/qt/viewer.py",
-      "sha256": "ef9ded6345130149cb2f7db86339d5ea7461a03e38288bd130159b03b69884eb",
-      "size": 11639
-    },
-    {
-      "path": "tests/contract/test_cmd_launchers.py",
-      "sha256": "92370deeec6da2ea01b8868cad77b9606efa6cbeac64b6364d478e27cac2fe62",
-      "size": 498
-    },
-    {
-      "path": "tests/contract/test_installer_frontend_contract.py",
-      "sha256": "00a61ec4b685c7da67a7a6645e24ce749bd011c5f88d5145a982cdde4bd9d103",
-      "size": 2663
-    },
-    {
-      "path": "tests/contract/test_plugin_api.py",
-      "sha256": "807b8b80697b505b21690973e554418ee225eede16f2f6445bb4961a128f6d44",
-      "size": 2245
-    },
-    {
-      "path": "tests/contract/test_public_plugin_surface.py",
-      "sha256": "eb14e1a074e45ec5e32eaf5dac2bb1b89bfc906df7279ac7130bcdf365642e8e",
-      "size": 270
-    },
-    {
-      "path": "tests/integration/test_ai_foundation.py",
-      "sha256": "149d8c6aa5b22a70249d016458ff0042e37b1fb00a2410e082a8e5d2add72e44",
-      "size": 5433
-    },
-    {
-      "path": "tests/integration/test_ai_generation_completion.py",
-      "sha256": "27af307dbca5479f9f7e9900652af53c0ada336fb718dd3ed101befa635681c6",
-      "size": 5952
-    },
-    {
-      "path": "tests/integration/test_ai_review.py",
-      "sha256": "46e9bc582573e61b497dc0f8279266579a40e5d42789ab801c8f47abf661a073",
-      "size": 4178
-    },
-    {
-      "path": "tests/integration/test_ai_review_completion.py",
-      "sha256": "9688b5ab94a6a983a17bedbe02b7b17db8f4ea5915e69c5cfe233ceb63da663d",
-      "size": 12330
-    },
-    {
-      "path": "tests/integration/test_ai_review_overview.py",
-      "sha256": "8e672aa515c5561cf89e17581e9a30cf9e940ef52ba0de69953e454299bb9ae1",
-      "size": 3625
-    },
-    {
-      "path": "tests/integration/test_ai_runtime_completion.py",
-      "sha256": "093df2b624bef7040a292ca3571acb925659f87a0bec81b1512cf974f0d897db",
-      "size": 4879
-    },
-    {
-      "path": "tests/integration/test_aperture_branding_contract.py",
-      "sha256": "21a2f6d49b1ab098af7ee513fcd87ea48c7c0e12ed3ae5400e8d86c4fc4c0c16",
-      "size": 590
-    },
-    {
-      "path": "tests/integration/test_catalog_gui_adapter.py",
-      "sha256": "29bdc57cac344ee991781d67405e9dc664ceece7a0630774e23a30a446d5b88f",
-      "size": 7088
-    },
-    {
-      "path": "tests/integration/test_concurrency.py",
-      "sha256": "35113d74e5959da2795696b6f700b5e09fc9c20ff540d2f673ad0a60879ae10b",
-      "size": 1160
-    },
-    {
-      "path": "tests/integration/test_desktop_import_composition.py",
-      "sha256": "aaa1b52879e942359b3a24701cb760cb9a6438af1749f8a02725216192c2c44e",
-      "size": 2639
-    },
-    {
-      "path": "tests/integration/test_ecological_context.py",
-      "sha256": "6c99e323bc4cb6317bc712c44f34216dcfad5d3291aa4d95cb7dfbd76c4632bf",
-      "size": 3675
-    },
-    {
-      "path": "tests/integration/test_exporting.py",
-      "sha256": "7b6414434d849451b443f9509cbb5cabdb6f014145d688928d453f21af94ad99",
-      "size": 15823
-    },
-    {
-      "path": "tests/integration/test_foundation_container.py",
-      "sha256": "872a7c239432d170cd5b8bb3f4a7a41305200729b94d7860e8caa49dacf0dc07",
-      "size": 487
-    },
-    {
-      "path": "tests/integration/test_import_catalog.py",
-      "sha256": "c95da7efbe0889e99ea2784216d31f3ce98aca2215e75cadece374e0c27bfe9f",
-      "size": 7669
-    },
-    {
-      "path": "tests/integration/test_job_engine.py",
-      "sha256": "e41dd30eaa0654a8559e63c7e565c61e54d520c53784d69d19de01d0a07893ee",
-      "size": 3237
-    },
-    {
-      "path": "tests/integration/test_library_lifecycle.py",
-      "sha256": "f1fc68673b1dcbc0d6bb528fec2cafa6e7f09014d5a042263b3f4063feee7ea6",
-      "size": 2962
-    },
-    {
-      "path": "tests/integration/test_observation_intelligence.py",
-      "sha256": "52a235097d6c812ebff29a859d7709db8ab890c0df10bd63a26fbdac4a3efc92",
-      "size": 9729
-    },
-    {
-      "path": "tests/integration/test_regional_acquisition.py",
-      "sha256": "16d342b821fe8589854e958149950fc5cef474e4b47c038eea54de7e780ac94f",
-      "size": 2643
-    },
-    {
-      "path": "tests/integration/test_regional_profile.py",
-      "sha256": "2d3615a80437483eb2d3f6a3e9bc6b34742c868ae9b435bc47cf0cca238085a7",
-      "size": 1712
-    },
-    {
-      "path": "tests/integration/test_repositories.py",
-      "sha256": "5ca8b2a9f4c59422ec6ffc8741a0aa49ff56233a34170be0117982f005db2b99",
-      "size": 1974
-    },
-    {
-      "path": "tests/integration/test_resumable_derivative_exporting.py",
-      "sha256": "6ae5c24e1fb316963a96dea7aebf9f75f9a212d085c8e15d15ff748b0218472a",
-      "size": 7331
-    },
-    {
-      "path": "tests/integration/test_resumable_exporting.py",
-      "sha256": "e561c38504c16c4575fdc8cd5a3bd02dbd7a39dd93a2472e87daf158dfe9cde6",
-      "size": 6565
-    },
-    {
-      "path": "tests/integration/test_search_collections_geo.py",
-      "sha256": "91b39a0dd0d4820ccde6999f92e2837ec8753165a05f93b9e494c5488919f49b",
-      "size": 12068
-    },
-    {
-      "path": "tests/integration/test_taxonomy_activation_refresh.py",
-      "sha256": "ea61e184ee47bd65673b15d89c2341bc0d77a772c18eaa77aa52eff441cc1c1e",
-      "size": 3944
-    },
-    {
-      "path": "tests/integration/test_taxonomy_system.py",
-      "sha256": "35111ee19b09b2006dec857faa8d599edd0ef865303767d31c62e2ed9aab7bee",
-      "size": 4661
-    },
-    {
-      "path": "tests/integration/test_taxonomy_text_embedding_pipeline.py",
-      "sha256": "6c05ea78c80acec5e632ac0a265613008bf3c172a6ed34a41a49c9b0008f1d06",
-      "size": 6446
-    },
-    {
-      "path": "tests/migration/test_ai_generation_upgrade.py",
-      "sha256": "acc1b7dab4c453a05fcdacedc5f61d5123a52e562d2414e9d0ee1015080abc81",
-      "size": 958
-    },
-    {
-      "path": "tests/migration/test_ai_upgrade.py",
-      "sha256": "4448aed8b8673f636b1a8b3e57dd636213903d6e155b58619bf085a9a914de07",
-      "size": 911
-    },
-    {
-      "path": "tests/migration/test_import_catalog_upgrade.py",
-      "sha256": "3a3a2eff373d234e7dba87c5c6760ca6f951fcab005af8cb621e0e7b3eac51ec",
-      "size": 828
-    },
-    {
-      "path": "tests/migration/test_initial_schema.py",
-      "sha256": "25222f7a9859781bd77fd0635486c69791d303dc333d0bddcc9f42d09cf93317",
-      "size": 1272
-    },
-    {
-      "path": "tests/migration/test_jobs_media_upgrade.py",
-      "sha256": "144b49e33af4c1d233d2271b6d05edb30fa923301778efcae3d211c9e4a85e38",
-      "size": 1125
-    },
-    {
-      "path": "tests/migration/test_resumable_derivative_export_upgrade.py",
-      "sha256": "b527e8bc7d810b8c68c8723031dd14c072d736f2e39ccc95caaf1b348bfb467b",
-      "size": 837
-    },
-    {
-      "path": "tests/migration/test_resumable_export_upgrade.py",
-      "sha256": "cb5fb36d5b7084ec82e4e55aa86747a8cc173c8b36a66f42131ea96a041ab506",
-      "size": 874
-    },
-    {
-      "path": "tests/migration/test_search_upgrade.py",
-      "sha256": "ee3c678a65c636a8398f9aa85944d7af5793f3704016f663bda09b120e66f3e6",
-      "size": 1006
-    },
-    {
-      "path": "tests/performance/test_asset_repository_benchmark.py",
-      "sha256": "8ed0b38031415991b609d6f3c7152add8add1ae5512927418d889aec01a38ac6",
-      "size": 1396
-    },
-    {
-      "path": "tests/performance/test_gui_catalog_benchmark.py",
-      "sha256": "69c8233586d371b652bb049b3e66f605bd2a060f873190642fc8e3b095b7cb75",
-      "size": 1100
-    },
-    {
-      "path": "tests/performance/test_search_benchmark.py",
-      "sha256": "605a59b74e291a63a1a284f6357419ea64c05a3cf8bf04670a69529ff14b7384",
-      "size": 1278
-    },
-    {
-      "path": "tests/unit/test_accessibility_release.py",
-      "sha256": "0e590f14759c03d8da1fca4cd968d6d1770c4be3875fb2bc8edc263d317cba32",
-      "size": 1137
-    },
-    {
-      "path": "tests/unit/test_activity_center_release.py",
-      "sha256": "dafbbbf9f5d75ef84783f1a527d096ea787eecb62e81bfd9082fd0139d0944b9",
-      "size": 3037
-    },
-    {
-      "path": "tests/unit/test_ai_generation_service.py",
-      "sha256": "9abe726425af9fb78ad16bc0411fb8e86b7374bd1f6f621dd525ac1b7a443494",
-      "size": 3276
-    },
-    {
-      "path": "tests/unit/test_ai_resources.py",
-      "sha256": "74e97712ab2094c43a97ac1774a6e79114d3447e459585fd72f2d912dc4ed071",
-      "size": 751
-    },
-    {
-      "path": "tests/unit/test_ai_review_logic.py",
-      "sha256": "8474cb79cab18597f7d06c3221a4a77f1d8603355938eebc6557af3deb33dd04",
-      "size": 2389
-    },
-    {
-      "path": "tests/unit/test_ai_vectors.py",
-      "sha256": "82bfb0cd39c98fb77bfa88036c7dcbd49a7c7da03ef5b265faffc5f1b8c07780",
-      "size": 1681
-    },
-    {
-      "path": "tests/unit/test_backup_button_release.py",
-      "sha256": "a6bbde7de265830e48a2e7d49cf22b5e8265cfdf7d76a221e47c61c8ed90d501",
-      "size": 889
-    },
-    {
-      "path": "tests/unit/test_backup_recovery_application_release.py",
-      "sha256": "796c1c8af523c832bfde5ff98fcb9991f3eb5c912a1fd2c4eefb182d7724b1a3",
-      "size": 2242
-    },
-    {
-      "path": "tests/unit/test_backup_service.py",
-      "sha256": "5aae02c2b5f2b67df25f8963717853f3ef12c680d7bd18c871b11c68ff2cb499",
-      "size": 1726
-    },
-    {
-      "path": "tests/unit/test_branding.py",
-      "sha256": "63c6d930566d5bf7940ce72481b85279b82f1cd3719c9c7326520985173531b8",
-      "size": 875
-    },
-    {
-      "path": "tests/unit/test_catalog_thumbnail_provider.py",
-      "sha256": "8a6725f8594086ec87aeb4fd3d6e91cf642f879714501195541d2576bf338f0b",
-      "size": 3076
-    },
-    {
-      "path": "tests/unit/test_collection_navigation_release.py",
-      "sha256": "465afc3c8a47f761731ef1cad9c4729e6dc051139b0533866e96f33791c3764f",
-      "size": 2190
-    },
-    {
-      "path": "tests/unit/test_configuration.py",
-      "sha256": "f5641e7cf9b02ab0a9c068debbf5f9ff176effdd8f4f1d6db3d9d5b1bfec9d26",
-      "size": 2402
-    },
-    {
-      "path": "tests/unit/test_deployment_hardening_release.py",
-      "sha256": "3d0a09ce52d1d4892b74ff68268074b5dd63e061e1a8be78573ffbc6a45f217e",
-      "size": 1293
-    },
-    {
-      "path": "tests/unit/test_documentation_release.py",
-      "sha256": "49ba7903472310c7b68ac289ce0995d1e7c1c742814285964f1b2f736923f1df",
-      "size": 1259
-    },
-    {
-      "path": "tests/unit/test_errors.py",
-      "sha256": "faf605ca96129ce16d970414c8fd94f2047cfa7c847f9c6c0ed2ea1341fd3f28",
-      "size": 1046
-    },
-    {
-      "path": "tests/unit/test_gui_presentation.py",
-      "sha256": "8e10cac52265381b163b75b68e2478883d3c3dc711c84752698f4f5a6b1d319a",
-      "size": 4701
-    },
-    {
-      "path": "tests/unit/test_health_center_release.py",
-      "sha256": "a80d79ec5a0a86a3ba3b9fa03d4b6b8c968d3391d2dc81064cb687f39ef878f8",
-      "size": 723
-    },
-    {
-      "path": "tests/unit/test_health_service.py",
-      "sha256": "c36a86414ed60c66701ed95087a14adc23de328ed7674ea40e6ca10100241701",
-      "size": 3406
-    },
-    {
-      "path": "tests/unit/test_help_discoverability_release.py",
-      "sha256": "ffcdf3d2638bfde2e65feabc14272eedd71d968fdb556fb11871e2d2f494bd65",
-      "size": 2260
-    },
-    {
-      "path": "tests/unit/test_interactive_species_dashboard_release.py",
-      "sha256": "bffbfe6b8769a11cf446a12274cf82b3ad269867a79a1792108f0bceeef71cf4",
-      "size": 581
-    },
-    {
-      "path": "tests/unit/test_job_state.py",
-      "sha256": "b69b73c593484d2a23e8829320d3019dd2013328a3ed229df226b427f018a6fa",
-      "size": 2288
-    },
-    {
-      "path": "tests/unit/test_library_manifest_compatibility.py",
-      "sha256": "abd8a878f1e567c0de52ef52a0b62bb5e765c38d924fdc1bbdb4f9ac689293d3",
-      "size": 2249
-    },
-    {
-      "path": "tests/unit/test_logging.py",
-      "sha256": "551918b6925d9a6c989cc19fc7866b3fe62926bb18cc8b6b06e0295f05e95db7",
-      "size": 777
-    },
-    {
-      "path": "tests/unit/test_maintenance_center_launcher_resolution.py",
-      "sha256": "c5a547e997d8476c1f014309add3380c80c66bead4d538c2873314e629404b1d",
-      "size": 782
-    },
-    {
-      "path": "tests/unit/test_maintenance_ready_path.py",
-      "sha256": "3b5069f3b75d34b0c2dad0717d694fda88da1d187a06bb1ceb089decfb79cacd",
-      "size": 518
-    },
-    {
-      "path": "tests/unit/test_media_pipeline.py",
-      "sha256": "b22a2f2bbbd545d81e108ac63cb9cd2d3a7f3e8a76eb1403cda5ed6bfd21d488",
-      "size": 1516
-    },
-    {
-      "path": "tests/unit/test_model_residency.py",
-      "sha256": "cc40b6e6211e188279a20f89e04c3ca35cf4f7daa9c55ad5b91f54534bcd19da",
-      "size": 1392
-    },
-    {
-      "path": "tests/unit/test_observation_workspace_release.py",
-      "sha256": "b2cb187cc231fcb08e43603bd472675acf002191ed520101f370ce955fa5de27",
-      "size": 1484
-    },
-    {
-      "path": "tests/unit/test_paths.py",
-      "sha256": "0f46679588d0db311d5ba46066e66725efe7c8ec39f74d5728fcaa540a66a8ce",
-      "size": 412
-    },
-    {
-      "path": "tests/unit/test_qt_composition_order.py",
-      "sha256": "4524f4a574daac982da760642e625529676b0c43b90ad9dcd5e74b90e3c6d1f6",
-      "size": 918
-    },
-    {
-      "path": "tests/unit/test_rc1_documentation_freeze.py",
-      "sha256": "9f0f2dd6842e2f65cd42dab6498e649de60b039740f34ccfc8773b0747eb201e",
-      "size": 1350
-    },
-    {
-      "path": "tests/unit/test_rc1_final_runtime_freeze.py",
-      "sha256": "13482c3c9031e429fd86585ab439a0c15b41eca0ffd9b05331b4d883b7d8af86",
-      "size": 1306
-    },
-    {
-      "path": "tests/unit/test_rc1_launcher_and_import_view.py",
-      "sha256": "61e8fd13ff6f67630fc8127a21cb67800daa787c02f20b13068094d44a8f7e23",
-      "size": 962
-    },
-    {
-      "path": "tests/unit/test_rc1_launcher_library_refresh_fix.py",
-      "sha256": "7639a8c84c769c05196425a95b8566cdd3e1d9c4e98e570204ccd17d8d523b66",
-      "size": 1017
-    },
-    {
-      "path": "tests/unit/test_rc1_native_gui_launcher.py",
-      "sha256": "c6d8f6e4acd195d85eab7ff777faaf0824383fbf9d7870ec51299c9c03eda593",
-      "size": 1238
-    },
-    {
-      "path": "tests/unit/test_rc1_restore_handle_release.py",
-      "sha256": "d6ac59305a12da0b742e159a86e912bcfcc7140ebc58acaaee0ba2cac3972bef",
-      "size": 2045
-    },
-    {
-      "path": "tests/unit/test_rc1_stabilization_polish.py",
-      "sha256": "80bd9fef316215251f1c9a980986fd738a428ebc1af8f4c91304f318a8042502",
-      "size": 1104
-    },
-    {
-      "path": "tests/unit/test_rc1_stabilization_sprint2.py",
-      "sha256": "946dcf4885bfbb64eacbfc9f663f1bd8f2e0667acaabfe4279f599a3216ca2ff",
-      "size": 1078
-    },
-    {
-      "path": "tests/unit/test_rc1_visible_restore_handoff.py",
-      "sha256": "c88524ca2ad547b01d4b78ede6edc80bd0df54ff70ec30bf95c88831926e16ae",
-      "size": 1442
-    },
-    {
-      "path": "tests/unit/test_recovery_center_release.py",
-      "sha256": "599d7501b6fdd7298b521bd7ec2367784e44bf8b03867e95f02139669e58ab37",
-      "size": 1073
-    },
-    {
-      "path": "tests/unit/test_recovery_service.py",
-      "sha256": "72df054eae761e26bea3bcb7c205315e32ef1b46b0369fc10ec21c6d4b871ab9",
-      "size": 3038
-    },
-    {
-      "path": "tests/unit/test_resumable_export_job.py",
-      "sha256": "8077662035c08652d05ddca12e10d5333ade320fb761b0febe88c35933611cf8",
-      "size": 3300
-    },
-    {
-      "path": "tests/unit/test_search_query.py",
-      "sha256": "76bbf9a367603cce51f8d7e8e199b592af38a5f7e1eb107e45778b8c2252d4b0",
-      "size": 3802
-    },
-    {
-      "path": "tests/unit/test_settings_navigation_release.py",
-      "sha256": "903741a49a0d1b550cc425eb6196405104eafe286c09ca2135e8684bce4feabf",
-      "size": 764
-    },
-    {
-      "path": "tests/unit/test_species_dashboard_explainability_release.py",
-      "sha256": "d21a8517a9407590995f07b69b5221af63f5ed217a845906ef6ee07f563dc231",
-      "size": 857
-    },
-    {
-      "path": "tests/unit/test_thumbnail_coordinator.py",
-      "sha256": "b98be55732a3f51db5d7c3a338343f4d5e4868e90e93fab532cac151a757f70b",
-      "size": 900
-    },
-    {
-      "path": "tests/unit/test_update_handoff_reliability_0182.py",
-      "sha256": "301918f60c91ed0bc6d2980e2913099c6bcd4b5a26b507c4a7d0c69a51b1adc3",
-      "size": 1871
-    },
-    {
-      "path": "tests/unit/test_update_handoff_workflow.py",
-      "sha256": "635ed2102d4162adb58620fb14391ce3065a9379135704805c5e664d2e6842a6",
-      "size": 761
-    },
-    {
-      "path": "tests/unit/test_update_history.py",
-      "sha256": "c42bd6b105959f4861d3bbdacf26a0eef22e3a0384bc37181c8d61b79708a68f",
-      "size": 974
-    },
-    {
-      "path": "tests/unit/test_update_manager_release.py",
-      "sha256": "b46b4ffebbf52f051e3b983ae88b7ab455213f976719216e495565b8c7b7c6fb",
-      "size": 632
-    },
-    {
-      "path": "tests/unit/test_update_service.py",
-      "sha256": "7d446b2d4f7224156c25e9fd0541a60fe927c1664634aa2f0d4f25497a87f47b",
-      "size": 2365
-    },
-    {
-      "path": "tests/unit/test_version_0180_consolidation.py",
-      "sha256": "ecf4677fa4e76dd3b2f1e28ffd89c1ad8f184e49613a5a519cc2379a0eed4271",
-      "size": 876
-    },
-    {
-      "path": "tests/unit/test_version_0191_diagnostics_shortcuts.py",
-      "sha256": "d640a185cba4a300bc61e1cc174e889da63b2d5113fa3c9f59d1322e354c19db",
-      "size": 1166
-    },
-    {
-      "path": "tests/unit/test_viewer_release.py",
-      "sha256": "221fa579dedd26d616b07c8516b6d50be5d3c84bd30ac0af871a05eb7890805d",
-      "size": 1352
-    },
-    {
-      "path": "tests/unit/test_windows_installer_documentation.py",
-      "sha256": "2b35101ba528b96f6d536e6ff2571305bba8261aaf17366b77df3c279d4b5943",
-      "size": 1218
-    },
-    {
-      "path": "tests/unit/test_windows_release_assets.py",
-      "sha256": "9c5a6477be838952d06afc83a320b60c3e1a7439f981014f5c95664386365cf0",
-      "size": 3659
-    },
-    {
-      "path": "tests/unit_test_ai_setup.py",
-      "sha256": "6101fdc5147c10811ce40fbeb4aa9120bad51c538a19a4d61fc0938cb4458fa4",
-      "size": 1067
-    },
-    {
-      "path": "tests/unit_test_native_handoff.py",
-      "sha256": "4eb4ec507b9770a1a095e3a68699ee9fff101b275adfb7a604ef909baa9f91af",
-      "size": 2353
-    },
-    {
-      "path": "tests/unit_test_resource_cli.py",
-      "sha256": "c9c75b7f9d288fd8c178275343cbb5fdfc16f28de8ee6c6d15305b720b0f1297",
-      "size": 2794
+      "size": 11639,
+      "sha256": "ef9ded6345130149cb2f7db86339d5ea7461a03e38288bd130159b03b69884eb"
     }
   ]
 }

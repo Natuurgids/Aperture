@@ -1,0 +1,7 @@
+-c constraints-py311.txt
+packaging
+platformdirs
+Pillow
+pyshp
+cryptography
+typing-extensions; python_version < "3.12"
